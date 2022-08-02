@@ -1,0 +1,1556 @@
+[07-30 16:25:57]135,Arrow 01, Character ID:1
+[07-30 16:25:57]149,Gunpowder 01, Character ID:1
+[07-30 16:25:57]200,Left Plaster Glove, Character ID:1
+[07-30 16:25:57]201,Left Brawler Glove, Character ID:1
+[07-30 16:25:57]202,Left Master Glove, Character ID:1
+[07-30 16:25:57]203,Left Jagged Blade, Character ID:1
+[07-30 16:25:57]204,Left Cosmo Blade, Character ID:1
+[07-30 16:25:57]205,Left Tiger Glove, Character ID:1
+[07-30 16:25:57]206,Left Hand of Death, Character ID:1
+[07-30 16:25:57]228,Raging Bull Tattoo, Character ID:3
+[07-30 16:25:57]229,Savage Bull Tattoo, Character ID:3
+[07-30 16:25:57]230,Primal Tattoo, Character ID:3
+[07-30 16:25:57]290,Husk Armor, Character ID:3
+[07-30 16:25:57]291,Thick Armor, Character ID:3
+[07-30 16:25:57]292,Leather Armor, Character ID:3
+[07-30 16:25:57]293,Rhino Hide Armor, Character ID:3
+[07-30 16:25:57]294,Tiger Hide Armor, Character ID:3
+[07-30 16:25:57]295,Breast Plate, Character ID:3
+[07-30 16:25:57]296,Soft Leather Armor, Character ID:3
+[07-30 16:25:57]297,Heavy Leather Armor, Character ID:3
+[07-30 16:25:57]298,Strong Leather Armor, Character ID:3
+[07-30 16:25:57]299,Mithril Platemail, Character ID:3
+[07-30 16:25:57]300,Chain Mail, Character ID:3
+[07-30 16:25:57]301,Strong Platemail, Character ID:3
+[07-30 16:25:57]302,Light Platemail, Character ID:3
+[07-30 16:25:57]303,Silver Platemail, Character ID:3
+[07-30 16:25:57]304,Ceremonial Platemail, Character ID:3
+[07-30 16:25:57]305,Coarse Vest, Character ID:2
+[07-30 16:25:57]306,Canvas Vest, Character ID:2
+[07-30 16:25:57]307,Exquisite Vest, Character ID:2
+[07-30 16:25:57]308,Leather Vest, Character ID:2
+[07-30 16:25:57]309,Warrior Frock, Character ID:2
+[07-30 16:25:57]310,Feather Vest, Character ID:2
+[07-30 16:25:57]311,Safari Vest, Character ID:2
+[07-30 16:25:57]312,Emerald Vest, Character ID:2
+[07-30 16:25:57]313,Hunter Vest, Character ID:2
+[07-30 16:25:57]314,Slick Vest, Character ID:2
+[07-30 16:25:57]315,Peacock Vest, Character ID:2
+[07-30 16:25:57]316,Ringdove Vest, Character ID:2
+[07-30 16:25:57]317,Raptor Vest, Character ID:2
+[07-30 16:25:57]335,Cloth Shirt, Character ID:2
+[07-30 16:25:57]336,Tough Vest, Character ID:2
+[07-30 16:25:57]337,Explorer Vest, Character ID:2
+[07-30 16:25:57]338,Adventure Vest, Character ID:2
+[07-30 16:25:57]339,Helmsman Vest, Character ID:2
+[07-30 16:25:57]340,Oarsman Vest, Character ID:2
+[07-30 16:25:57]341,Deckman Vest, Character ID:2
+[07-30 16:25:57]342,Mastman Vest, Character ID:2
+[07-30 16:25:57]343,Hurricane Vest, Character ID:2
+[07-30 16:25:57]344,Whirlpool Vest, Character ID:2
+[07-30 16:25:57]345,Wind Vest, Character ID:2
+[07-30 16:25:57]350,Crabby Costume, Character ID:1
+[07-30 16:25:57]351,Rooroo Costume, Character ID:1
+[07-30 16:25:57]352,Playful Racoon Costume, Character ID:1
+[07-30 16:25:57]353,Duckling Costume, Character ID:1
+[07-30 16:25:57]354,Big Crab Costume, Character ID:1
+[07-30 16:25:57]355,Lobster Costume, Character ID:1
+[07-30 16:25:57]356,Ducky Costume, Character ID:1
+[07-30 16:25:57]357,Prawn Costume, Character ID:1
+[07-30 16:25:57]358,Pincer Costume, Character ID:1
+[07-30 16:25:57]359,Sheepy Costume, Character ID:1
+[07-30 16:25:57]360,Meowy Costume, Character ID:1
+[07-30 16:25:57]361,Owl Costume, Character ID:1
+[07-30 16:25:57]362,Hopperoo Costume, Character ID:1
+[07-30 16:25:57]363,Clever Otter Costume, Character ID:1
+[07-30 16:25:57]364,Lucky Otter Costume, Character ID:1
+[07-30 16:25:57]365,Medic Robe, Character ID:1
+[07-30 16:25:57]366,Foster Robe, Character ID:1
+[07-30 16:25:57]367,Travel Robe, Character ID:1
+[07-30 16:25:57]368,Nurse Robe, Character ID:1
+[07-30 16:25:57]369,Garcon Robe, Character ID:1
+[07-30 16:25:57]370,Holy Robe, Character ID:1
+[07-30 16:25:57]371,Follower Robe, Character ID:1
+[07-30 16:25:57]372,Attendant Robe, Character ID:1
+[07-30 16:25:57]373,Scholar Robe, Character ID:1
+[07-30 16:25:57]374,Emergency Robe, Character ID:1
+[07-30 16:25:57]375,Passage Robe, Character ID:1
+[07-30 16:25:57]376,Healer Robe, Character ID:1
+[07-30 16:25:57]377,Protector Robe, Character ID:1
+[07-30 16:25:57]378,Piety Robe, Character ID:1
+[07-30 16:25:57]379,Blessed Robe, Character ID:1
+[07-30 16:25:57]380,Mousey Costume, Character ID:1
+[07-30 16:25:57]381,Kitty Costume, Character ID:1
+[07-30 16:25:57]382,Loopy Bunny Costume, Character ID:1
+[07-30 16:25:57]383,Goaty Costume, Character ID:1
+[07-30 16:25:57]384,Deer Costume, Character ID:1
+[07-30 16:25:57]385,Otter Costume, Character ID:1
+[07-30 16:25:57]386,Racoon Costume, Character ID:1
+[07-30 16:25:57]388,Happy Bunny Costume, Character ID:1
+[07-30 16:25:57]389,Night Owl Costume, Character ID:1
+[07-30 16:25:57]390,Kangaroo Costume, Character ID:1
+[07-30 16:25:57]391,Joyful Bunny Costume, Character ID:1
+[07-30 16:25:57]392,Bunny Baby Costume, Character ID:1
+[07-30 16:25:57]393,Lucky Bunny Costume, Character ID:1
+[07-30 16:25:57]394,Heavenly Vest, Character ID:1
+[07-30 16:25:57]395,Armor of Night, Character ID:2
+[07-30 16:25:57]396,Armor of Secrets, Character ID:2
+[07-30 16:25:57]397,Armor of Hercules, Character ID:1
+[07-30 16:25:57]398,Armor of Olympus, Character ID:1
+[07-30 16:25:57]399,Vest of Marksmanship, Character ID:2
+[07-30 16:25:57]400,Vest of Apollo, Character ID:2
+[07-30 16:25:57]401,Robe of the Wise, Character ID:1
+[07-30 16:25:57]402,Robe of the Sage, Character ID:1
+[07-30 16:25:57]403,Happy Panda Costume, Character ID:1
+[07-30 16:25:57]404,Mystic Panda Costume, Character ID:1
+[07-30 16:25:57]405,Fairy Robe, Character ID:1
+[07-30 16:25:57]406,Faerie Robe, Character ID:1
+[07-30 16:25:57]407,Gold Fish Costume, Character ID:1
+[07-30 16:25:57]408,Fish Fairy Costume, Character ID:1
+[07-30 16:25:57]409,Tidal Robe, Character ID:2
+[07-30 16:25:57]410,Bear Costume, Character ID:1
+[07-30 16:25:57]411,Tsunami Robe, Character ID:2
+[07-30 16:25:57]412,Dragon Costume, Character ID:1
+[07-30 16:25:57]413,Dragon Lord Costume, Character ID:1
+[07-30 16:25:57]466,Husk Gloves, Character ID:3
+[07-30 16:25:57]467,Thick Gloves, Character ID:3
+[07-30 16:25:57]468,Leather Gloves, Character ID:3
+[07-30 16:25:57]469,Rhino Hide Gloves, Character ID:3
+[07-30 16:25:57]470,Tiger Hide Gloves, Character ID:3
+[07-30 16:25:57]471,Gauntlets, Character ID:3
+[07-30 16:25:57]472,Soft Leather Gloves, Character ID:3
+[07-30 16:25:57]473,Heavy Leather Gloves, Character ID:3
+[07-30 16:25:57]474,Strong Leather Gloves, Character ID:3
+[07-30 16:25:57]475,Mithril Gauntlets, Character ID:3
+[07-30 16:25:57]476,Chain Gauntlets, Character ID:3
+[07-30 16:25:57]477,Strong Gauntlets, Character ID:3
+[07-30 16:25:57]478,Light Gauntlets, Character ID:3
+[07-30 16:25:57]479,Silver Gauntlets, Character ID:3
+[07-30 16:25:57]480,Ceremonial Gauntlets, Character ID:3
+[07-30 16:25:57]481,Coarse Gloves, Character ID:2
+[07-30 16:25:57]482,Canvas Gloves, Character ID:2
+[07-30 16:25:57]483,Exquisite Gloves, Character ID:2
+[07-30 16:25:57]484,Leather Gloves, Character ID:2
+[07-30 16:25:57]485,Warrior Gloves, Character ID:2
+[07-30 16:25:57]486,Feather Gloves, Character ID:2
+[07-30 16:25:57]487,Safari Gloves, Character ID:2
+[07-30 16:25:57]488,Emerald Gloves, Character ID:2
+[07-30 16:25:57]489,Hunter Gloves, Character ID:2
+[07-30 16:25:57]490,Slick Gloves, Character ID:2
+[07-30 16:25:57]491,Peacock Gloves, Character ID:2
+[07-30 16:25:57]492,Ringdove Gloves, Character ID:2
+[07-30 16:25:57]493,Raptor Gloves, Character ID:2
+[07-30 16:25:57]511,Cloth Gloves, Character ID:2
+[07-30 16:25:57]512,Tough Gloves, Character ID:2
+[07-30 16:25:57]513,Explorer Gloves, Character ID:2
+[07-30 16:25:57]514,Adventure Gloves, Character ID:2
+[07-30 16:25:57]515,Helmsman Gloves, Character ID:2
+[07-30 16:25:57]516,Oarsman Gloves, Character ID:2
+[07-30 16:25:57]517,Deckman Gloves, Character ID:2
+[07-30 16:25:57]518,Mastman Gloves, Character ID:2
+[07-30 16:25:57]519,Hurricane Gloves, Character ID:2
+[07-30 16:25:57]520,Whirlpool Gloves, Character ID:2
+[07-30 16:25:57]521,Wind Gloves, Character ID:2
+[07-30 16:25:57]526,Crabby Gloves, Character ID:1
+[07-30 16:25:57]527,Rooroo Muffs, Character ID:1
+[07-30 16:25:57]528,Playful Racoon Muffs, Character ID:1
+[07-30 16:25:57]529,Duckling Muffs, Character ID:1
+[07-30 16:25:57]530,Big Crab Muffs, Character ID:1
+[07-30 16:25:57]531,Lobster Muffs, Character ID:1
+[07-30 16:25:57]532,Ducky Muffs, Character ID:1
+[07-30 16:25:57]533,Prawn Muffs, Character ID:1
+[07-30 16:25:57]534,Pincer Muffs, Character ID:1
+[07-30 16:25:57]535,Sheepy Muffs, Character ID:1
+[07-30 16:25:57]536,Meowy Muffs, Character ID:1
+[07-30 16:25:57]537,Owl Muffs, Character ID:1
+[07-30 16:25:57]538,Hopperoo Muffs, Character ID:1
+[07-30 16:25:57]539,Clever Otter Muffs, Character ID:1
+[07-30 16:25:57]540,Lucky Otter Muffs, Character ID:1
+[07-30 16:25:57]541,Medic Gloves, Character ID:1
+[07-30 16:25:57]542,Foster Gloves, Character ID:1
+[07-30 16:25:57]543,Travel Gloves, Character ID:1
+[07-30 16:25:57]544,Nurse Gloves, Character ID:1
+[07-30 16:25:57]545,Garcon Gloves, Character ID:1
+[07-30 16:25:57]546,Holy Gloves, Character ID:1
+[07-30 16:25:57]547,Follower Gloves, Character ID:1
+[07-30 16:25:57]548,Attendant Gloves, Character ID:1
+[07-30 16:25:57]549,Scholar Gloves, Character ID:1
+[07-30 16:25:57]550,Emergency Gloves, Character ID:1
+[07-30 16:25:57]551,Passage Gloves, Character ID:1
+[07-30 16:25:57]552,Healer Gloves, Character ID:1
+[07-30 16:25:57]553,Protector Gloves, Character ID:1
+[07-30 16:25:57]554,Piety Gloves, Character ID:1
+[07-30 16:25:57]555,Blessed Gloves, Character ID:1
+[07-30 16:25:57]556,Mousey Muffs, Character ID:1
+[07-30 16:25:57]557,Kitty Muffs, Character ID:1
+[07-30 16:25:57]558,Loopy Bunny Muffs, Character ID:1
+[07-30 16:25:57]559,Goaty Muffs, Character ID:1
+[07-30 16:25:57]560,Deer Muffs, Character ID:1
+[07-30 16:25:57]561,Otter Muffs, Character ID:1
+[07-30 16:25:57]562,Racoon Muffs, Character ID:1
+[07-30 16:25:57]564,Happy Bunny Muffs, Character ID:1
+[07-30 16:25:57]565,Night Owl Muffs, Character ID:1
+[07-30 16:25:57]566,Kangaroo Muffs, Character ID:1
+[07-30 16:25:57]567,Joyful Bunny Muffs, Character ID:1
+[07-30 16:25:57]568,Bunny Baby Muffs, Character ID:1
+[07-30 16:25:57]569,Lucky Bunny Muffs, Character ID:1
+[07-30 16:25:57]570,Heavenly Gloves, Character ID:1
+[07-30 16:25:57]586,Bear Gloves, Character ID:1
+[07-30 16:25:57]587,Gloves of Night, Character ID:2
+[07-30 16:25:57]588,Gloves of Secrets, Character ID:2
+[07-30 16:25:57]589,Gloves of Marksmanship, Character ID:2
+[07-30 16:25:57]590,Gloves of Apollo, Character ID:2
+[07-30 16:25:57]591,Gloves of the Wise, Character ID:1
+[07-30 16:25:57]592,Gloves of the Sage, Character ID:1
+[07-30 16:25:57]593,Happy Panda Gloves, Character ID:1
+[07-30 16:25:57]594,Mystic Panda Gloves, Character ID:1
+[07-30 16:25:57]595,Fairy Gloves, Character ID:1
+[07-30 16:25:57]596,Faerie Gloves, Character ID:1
+[07-30 16:25:57]597,Gold Fish Muffs, Character ID:1
+[07-30 16:25:57]598,Fish Fairy Muffs, Character ID:1
+[07-30 16:25:57]599,Tidal Gloves, Character ID:2
+[07-30 16:25:57]600,Tsunami Gloves, Character ID:2
+[07-30 16:25:57]601,Dragon Muffs, Character ID:1
+[07-30 16:25:57]602,Dragon Lord Muffs, Character ID:1
+[07-30 16:25:57]603,Gauntlets of Hercules, Character ID:1
+[07-30 16:25:57]604,Gauntlets of Olympus, Character ID:1
+[07-30 16:25:57]635,Lv 1 Strike Coral, Character ID:2
+[07-30 16:25:57]636,Lv 2 Strike Coral, Character ID:2
+[07-30 16:25:57]637,Lv 3 Strike Coral, Character ID:2
+[07-30 16:25:57]638,Lv 4 Strike Coral, Character ID:2
+[07-30 16:25:57]639,Lv 5 Strike Coral, Character ID:2
+[07-30 16:25:57]642,Husk Boots, Character ID:3
+[07-30 16:25:57]643,Thick Boots, Character ID:3
+[07-30 16:25:57]644,Leather Boots, Character ID:3
+[07-30 16:25:57]645,Rhino Hide Boots, Character ID:3
+[07-30 16:25:57]646,Tiger Hide Boots, Character ID:3
+[07-30 16:25:57]647,Greaves, Character ID:3
+[07-30 16:25:57]648,Soft Leather Boots, Character ID:3
+[07-30 16:25:57]649,Heavy Leather Boots, Character ID:3
+[07-30 16:25:57]650,Strong Leather Boots, Character ID:3
+[07-30 16:25:57]651,Mithril Greaves, Character ID:3
+[07-30 16:25:57]652,Chain Greaves, Character ID:3
+[07-30 16:25:57]653,Strong Greaves, Character ID:3
+[07-30 16:25:57]654,Light Greaves, Character ID:3
+[07-30 16:25:57]655,Silver Greaves, Character ID:3
+[07-30 16:25:57]656,Ceremonial Greaves, Character ID:3
+[07-30 16:25:57]657,Coarse Boots, Character ID:2
+[07-30 16:25:57]658,Canvas Boots, Character ID:2
+[07-30 16:25:57]659,Exquisite Boots, Character ID:2
+[07-30 16:25:57]660,Leather Boots, Character ID:2
+[07-30 16:25:57]661,Warrior Boots, Character ID:2
+[07-30 16:25:57]662,Feather Boots, Character ID:2
+[07-30 16:25:57]663,Safari Boots, Character ID:2
+[07-30 16:25:57]664,Emerald Boots, Character ID:2
+[07-30 16:25:57]665,Hunter Boots, Character ID:2
+[07-30 16:25:57]666,Slick Boots, Character ID:2
+[07-30 16:25:57]667,Peacock Boots, Character ID:2
+[07-30 16:25:57]668,Ringdove Boots, Character ID:2
+[07-30 16:25:57]669,Raptor Boots, Character ID:2
+[07-30 16:25:57]687,Cloth Boots, Character ID:2
+[07-30 16:25:57]688,Tough Boots, Character ID:2
+[07-30 16:25:57]689,Explorer Boots, Character ID:2
+[07-30 16:25:57]690,Adventure Boots, Character ID:2
+[07-30 16:25:57]691,Helmsman Boots, Character ID:2
+[07-30 16:25:57]692,Oarsman Boots, Character ID:2
+[07-30 16:25:57]693,Deckman Boots, Character ID:2
+[07-30 16:25:57]694,Mastman Boots, Character ID:2
+[07-30 16:25:57]695,Hurricane Boots, Character ID:2
+[07-30 16:25:57]696,Whirlpool Boots, Character ID:2
+[07-30 16:25:57]697,Wind Boots, Character ID:2
+[07-30 16:25:57]702,Crabby Shoes, Character ID:1
+[07-30 16:25:57]703,Rooroo Shoes, Character ID:1
+[07-30 16:25:57]704,Playful Racoon Shoes, Character ID:1
+[07-30 16:25:57]705,Duckling Shoes, Character ID:1
+[07-30 16:25:57]706,Big Crab Shoes, Character ID:1
+[07-30 16:25:57]707,Lobster Shoes, Character ID:1
+[07-30 16:25:57]708,Ducky Shoes, Character ID:1
+[07-30 16:25:57]709,Prawn Shoes, Character ID:1
+[07-30 16:25:57]710,Pincer Shoes, Character ID:1
+[07-30 16:25:57]711,Sheepy Shoes, Character ID:1
+[07-30 16:25:57]712,Meowy Shoes, Character ID:1
+[07-30 16:25:57]713,Owl Shoes, Character ID:1
+[07-30 16:25:57]714,Hopperoo Shoes, Character ID:1
+[07-30 16:25:57]715,Clever Otter Shoes, Character ID:1
+[07-30 16:25:57]716,Lucky Otter Shoes, Character ID:1
+[07-30 16:25:57]717,Medic Boots, Character ID:1
+[07-30 16:25:57]718,Foster Boots, Character ID:1
+[07-30 16:25:57]719,Travel Boots, Character ID:1
+[07-30 16:25:57]720,Nurse Boots, Character ID:1
+[07-30 16:25:57]721,Garcon Boots, Character ID:1
+[07-30 16:25:57]722,Holy Boots, Character ID:1
+[07-30 16:25:57]723,Follower Boots, Character ID:1
+[07-30 16:25:57]724,Attendant Boots, Character ID:1
+[07-30 16:25:57]725,Scholar Boots, Character ID:1
+[07-30 16:25:57]726,Emergency Boots, Character ID:1
+[07-30 16:25:57]727,Passage Boots, Character ID:1
+[07-30 16:25:57]728,Healer Boots, Character ID:1
+[07-30 16:25:57]729,Protector Boots, Character ID:1
+[07-30 16:25:57]730,Piety Boots, Character ID:1
+[07-30 16:25:57]731,Blessed Boots, Character ID:1
+[07-30 16:25:57]732,Mousey Shoes, Character ID:1
+[07-30 16:25:57]733,Kitty Shoes, Character ID:1
+[07-30 16:25:57]734,Loopy Bunny Shoes, Character ID:1
+[07-30 16:25:57]735,Goaty Shoes, Character ID:1
+[07-30 16:25:57]736,Deer Shoes, Character ID:1
+[07-30 16:25:57]737,Otter Shoes, Character ID:1
+[07-30 16:25:57]738,Racoon Shoes, Character ID:1
+[07-30 16:25:57]740,Happy Bunny Shoes, Character ID:1
+[07-30 16:25:57]741,Night Owl Shoes, Character ID:1
+[07-30 16:25:57]742,Kangaroo Shoes, Character ID:1
+[07-30 16:25:57]743,Joyful Bunny Shoes, Character ID:1
+[07-30 16:25:57]744,Bunny Baby Shoes, Character ID:1
+[07-30 16:25:57]745,Lucky Bunny Shoes, Character ID:1
+[07-30 16:25:57]746,Heavenly Shoes, Character ID:1
+[07-30 16:25:57]747,Boots of Night, Character ID:2
+[07-30 16:25:57]748,Boots of Secrets, Character ID:2
+[07-30 16:25:57]749,Boots of Marksmanship, Character ID:2
+[07-30 16:25:57]750,Boots of Apollo, Character ID:2
+[07-30 16:25:57]751,Boots of the Wise, Character ID:1
+[07-30 16:25:57]752,Boots of the Sage, Character ID:1
+[07-30 16:25:57]753,Happy Panda Shoes, Character ID:1
+[07-30 16:25:57]754,Mystic Panda Shoes, Character ID:1
+[07-30 16:25:57]755,Fairy Shoes, Character ID:1
+[07-30 16:25:57]756,Faerie Shoes, Character ID:1
+[07-30 16:25:57]757,Gold Fish Shoes, Character ID:1
+[07-30 16:25:57]758,Fish Fairy Shoes, Character ID:1
+[07-30 16:25:57]759,Tidal Shoes, Character ID:2
+[07-30 16:25:57]760,Tsunami Shoes, Character ID:2
+[07-30 16:25:57]761,Dragon Shoes, Character ID:1
+[07-30 16:25:57]762,Bear Shoes, Character ID:1
+[07-30 16:25:57]763,Armor of Revenant, Character ID:3
+[07-30 16:25:57]764,Tattoo of the Cursed Warrior, Character ID:3
+[07-30 16:25:57]765,Tattoo of Evanescence, Character ID:3
+[07-30 16:25:57]766,Tattoo of Enigma, Character ID:3
+[07-30 16:25:57]767,Platemail of the Cursed Soul, Character ID:3
+[07-30 16:25:57]768,Armor of Evanescence, Character ID:3
+[07-30 16:25:57]769,Armor of Enigma, Character ID:3
+[07-30 16:25:57]777,Robe of Death, Character ID:2
+[07-30 16:25:57]778,Corset of Incantation, Character ID:2
+[07-30 16:25:57]779,Coat of Evanescence, Character ID:2
+[07-30 16:25:57]780,Mantle of Enigma, Character ID:2
+[07-30 16:25:57]789,Robe of the Venom Witch, Character ID:1
+[07-30 16:25:57]790,Coat of Invocation, Character ID:1
+[07-30 16:25:57]791,Robe of the Arcane, Character ID:1
+[07-30 16:25:57]792,Robe of Enigma, Character ID:1
+[07-30 16:25:57]796,Robe of Abraxas, Character ID:1
+[07-30 16:25:57]797,Robe of Malediction, Character ID:1
+[07-30 16:25:57]798,Robe of the Sphinx, Character ID:1
+[07-30 16:25:57]803,Mantle of the Naga, Character ID:2
+[07-30 16:25:57]804,Mantle of the Cursed Flame, Character ID:2
+[07-30 16:25:57]805,Cloak of Evanescence, Character ID:2
+[07-30 16:25:57]806,Mantle of the Sphinx, Character ID:2
+[07-30 16:25:57]807,Gauntlets of Evanescence, Character ID:3
+[07-30 16:25:57]808,Greaves of Evanescence, Character ID:3
+[07-30 16:25:57]809,Gloves of Evanescence, Character ID:2
+[07-30 16:25:57]810,Shoes of Evanescence, Character ID:2
+[07-30 16:25:57]811,Gloves of Malediction, Character ID:1
+[07-30 16:25:57]812,Gloves of the Arcane, Character ID:1
+[07-30 16:25:57]813,Boots of Malediction, Character ID:1
+[07-30 16:25:57]814,Boots of the of the Arcane, Character ID:1
+[07-30 16:25:57]815,Heavy Gloves of Evanescence, Character ID:2
+[07-30 16:25:57]824,Dragon Lord Shoes, Character ID:1
+[07-30 16:25:57]828,Kylin Cap, Character ID:1
+[07-30 16:25:57]829,Greaves of Hercules, Character ID:1
+[07-30 16:25:57]830,Greaves of Olympus, Character ID:1
+[07-30 16:25:57]843,Ami Kylin Cap, Character ID:1
+[07-30 16:25:57]848,Black Dragon Helm, Character ID:1
+[07-30 16:25:57]877,Boots of Evanescence, Character ID:2
+[07-30 16:25:57]1115,Grandiose Helm, Character ID:2
+[07-30 16:25:57]1116,Grandiose Armor, Character ID:2
+[07-30 16:25:57]1117,Grandiose Gauntlets, Character ID:2
+[07-30 16:25:57]1118,Grandiose Boots, Character ID:2
+[07-30 16:25:57]1124,Chaos Framestone, Character ID:1
+[07-30 16:25:57]1125,Chaos Clawstone, Character ID:1
+[07-30 16:25:57]1126,Chaos Pawstone, Character ID:1
+[07-30 16:25:57]1127,Chaos Crownstone, Character ID:1
+[07-30 16:25:57]1884,Undead Sealed Armor of Revenant, Character ID:3
+[07-30 16:25:57]1885,Earth Sealed Tattoo of the Cursed Warrior, Character ID:3
+[07-30 16:25:57]1886,Fire Sealed Tattoo of Evanescence, Character ID:3
+[07-30 16:25:57]1887,Ice Sealed Tattoo of Enigma, Character ID:3
+[07-30 16:25:57]1888,Earth Sealed Platemail of the Cursed Soul, Character ID:3
+[07-30 16:25:57]1889,Fire Sealed Armor of Evanescence, Character ID:3
+[07-30 16:25:57]1890,Ice Sealed Armor of Enigma, Character ID:3
+[07-30 16:25:57]1898,Undead Sealed Robe of Death, Character ID:2
+[07-30 16:25:57]1899,Earth Sealed Corset of Incantation, Character ID:2
+[07-30 16:25:57]1900,Fire Sealed Coat of Evanescence, Character ID:2
+[07-30 16:25:57]1901,Ice Sealed Mantle of Enigma, Character ID:2
+[07-30 16:25:57]1910,Undead Sealed Robe of the Venom Witch, Character ID:1
+[07-30 16:25:57]1911,Earth Sealed Coat of Invocation, Character ID:1
+[07-30 16:25:57]1912,Fire Sealed Robe of the Arcane, Character ID:1
+[07-30 16:25:57]1913,Ice Sealed Robe of Enigma, Character ID:1
+[07-30 16:25:57]1917,Earth Sealed Robe of Abraxas, Character ID:1
+[07-30 16:25:57]1918,Fire Sealed Robe of Malediction, Character ID:1
+[07-30 16:25:57]1919,Ice Sealed Robe of the Sphinx, Character ID:1
+[07-30 16:25:57]1924,Undead Sealed Mantle of the Naga, Character ID:2
+[07-30 16:25:57]1925,Earth Sealed Mantle of the Cursed Flame, Character ID:2
+[07-30 16:25:57]1926,Fire Sealed Cloak of Evanescence, Character ID:2
+[07-30 16:25:57]1927,Ice Sealed Mantle of the Sphinx, Character ID:2
+[07-30 16:25:57]1928,Battle Armor of Crimson Flame, Character ID:3
+[07-30 16:25:57]1929,Battle Armor of the Tempest, Character ID:3
+[07-30 16:25:57]1930,Battle Armor of Sistine, Character ID:3
+[07-30 16:25:57]1931,Battle Armor of the Kylin, Character ID:3
+[07-30 16:25:57]1932,Battle Armor of Nature, Character ID:3
+[07-30 16:25:57]1933,Tattoo of Gallon, Character ID:3
+[07-30 16:25:57]1934,Tattoo of the Tortoise, Character ID:3
+[07-30 16:25:57]1935,Gauntlets of Crimson Flame, Character ID:3
+[07-30 16:25:57]1936,Gauntlets of the Tempest, Character ID:3
+[07-30 16:25:57]1937,Gauntlets of Sistine, Character ID:3
+[07-30 16:25:57]1938,Gauntlets of the Kylin, Character ID:3
+[07-30 16:25:57]1939,Greaves of Crimson Flame, Character ID:3
+[07-30 16:25:57]1940,Greaves of the Tempest, Character ID:3
+[07-30 16:25:57]1941,Greaves of Sistine, Character ID:3
+[07-30 16:25:57]1942,Greaves of the Kylin, Character ID:3
+[07-30 16:25:57]1943,Vest of Clarion Mist, Character ID:2
+[07-30 16:25:57]1944,Flaming Coat, Character ID:2
+[07-30 16:25:57]1945,Mantle of Darwin, Character ID:2
+[07-30 16:25:57]1946,Coat of the White Tiger, Character ID:2
+[07-30 16:25:57]1947,Gloves of Clarion Mist, Character ID:2
+[07-30 16:25:57]1948,Flaming Gloves, Character ID:2
+[07-30 16:25:57]1949,Gloves of Darwin, Character ID:2
+[07-30 16:25:57]1950,Gloves of the White Tiger, Character ID:2
+[07-30 16:25:57]1951,Boots of Clarion Mist, Character ID:2
+[07-30 16:25:57]1952,Flaming Boots, Character ID:2
+[07-30 16:25:57]1953,Boots of Darwin, Character ID:2
+[07-30 16:25:57]1954,Boots of the White Tiger, Character ID:2
+[07-30 16:25:57]1955,Emerald Vine Robe, Character ID:1
+[07-30 16:25:57]1956,Coat of Frozen Crescent, Character ID:1
+[07-30 16:25:57]1957,Coat of Udine, Character ID:1
+[07-30 16:25:57]1958,Coat of the Peacock, Character ID:1
+[07-30 16:25:57]1959,Glory Coat, Character ID:1
+[07-30 16:25:57]1960,Coat of Hope, Character ID:1
+[07-30 16:25:57]1961,Coat of the Phoenix, Character ID:1
+[07-30 16:25:57]1962,Emerald Vine Gloves, Character ID:1
+[07-30 16:25:57]1963,Gloves of Frozen Crescent, Character ID:1
+[07-30 16:25:57]1964,Gloves of Udine, Character ID:1
+[07-30 16:25:57]1965,Gloves of the Peacock, Character ID:1
+[07-30 16:25:57]1966,Glory Gloves, Character ID:1
+[07-30 16:25:57]1967,Gloves of Hope, Character ID:1
+[07-30 16:25:57]1968,Gloves of the Phoenix, Character ID:1
+[07-30 16:25:57]1969,Emerald Vine Boots, Character ID:1
+[07-30 16:25:57]1970,Boots of Frozen Crescent, Character ID:1
+[07-30 16:25:57]1971,Boots of Udine, Character ID:1
+[07-30 16:25:57]1972,Boots of the Peacock, Character ID:1
+[07-30 16:25:57]1973,Glory Boots, Character ID:1
+[07-30 16:25:57]1974,Boots of Hope, Character ID:1
+[07-30 16:25:57]1975,Boots of the Phoenix, Character ID:1
+[07-30 16:25:57]1976,Robe of the Mist, Character ID:2
+[07-30 16:25:57]1977,Coat of the Tempest, Character ID:2
+[07-30 16:25:57]1978,Robe of Forlorn, Character ID:2
+[07-30 16:25:57]1979,Coat of the Green Dragon, Character ID:2
+[07-30 16:25:57]1980,Gloves of the Mist, Character ID:2
+[07-30 16:25:57]1981,Gloves of the Tempest, Character ID:2
+[07-30 16:25:57]1982,Gloves of Forlorn, Character ID:2
+[07-30 16:25:57]1983,Gloves of the Green Dragon, Character ID:2
+[07-30 16:25:57]1984,Boots of the Mist, Character ID:2
+[07-30 16:25:57]1985,Boots of the Tempest, Character ID:2
+[07-30 16:25:57]1986,Boots of Forlorn, Character ID:2
+[07-30 16:25:57]1987,Boots of the Green Dragon, Character ID:2
+[07-30 16:25:57]1988,Fire Sealed Gauntlets of Evanescence, Character ID:3
+[07-30 16:25:57]1989,Fire Sealed Greaves of Evanescence, Character ID:3
+[07-30 16:25:57]1990,Fire Sealed Gloves of Evanescence, Character ID:2
+[07-30 16:25:57]1991,Fire Sealed Shoes of Evanescence, Character ID:2
+[07-30 16:25:57]1992,Fire Sealed Gloves of Malediction, Character ID:1
+[07-30 16:25:57]1993,Fire Sealed Gloves of the Arcane, Character ID:1
+[07-30 16:25:57]1994,Fire Sealed Boots of Malediction, Character ID:1
+[07-30 16:25:57]1995,Fire Sealed Boots of the of the Arcane, Character ID:1
+[07-30 16:25:57]1996,Fire Sealed Heavy Gloves of Evanescence, Character ID:2
+[07-30 16:25:57]1997,Fire Sealed Boots of Evanescence, Character ID:2
+[07-30 16:25:57]1999,Lance Failed Hairdo 1, Character ID:2
+[07-30 16:25:57]2000,Hairdo 1, Character ID:2
+[07-30 16:25:57]2001,Hairdo 2, Character ID:2
+[07-30 16:25:57]2002,Hairdo 3, Character ID:2
+[07-30 16:25:57]2003,Hairdo 4, Character ID:2
+[07-30 16:25:57]2004,Hairdo 5, Character ID:2
+[07-30 16:25:57]2005,Hairdo 6, Character ID:2
+[07-30 16:25:57]2006,Hairdo 7, Character ID:2
+[07-30 16:25:57]2007,Hairdo 8, Character ID:2
+[07-30 16:25:57]2008,Event Commissioner, Character ID:2
+[07-30 16:25:57]2009,Hairdo 1, Character ID:2
+[07-30 16:25:57]2010,Hairdo 1, Character ID:2
+[07-30 16:25:57]2011,Hairdo 1, Character ID:2
+[07-30 16:25:57]2012,Hairdo 1, Character ID:2
+[07-30 16:25:57]2013,Hairdo 1, Character ID:2
+[07-30 16:25:57]2014,Hairdo 1, Character ID:2
+[07-30 16:25:57]2015,Hairdo 2, Character ID:2
+[07-30 16:25:57]2016,Hairdo 2, Character ID:2
+[07-30 16:25:57]2017,Hairdo 2, Character ID:2
+[07-30 16:25:57]2018,Hairdo 2, Character ID:2
+[07-30 16:25:57]2019,Hairdo 2, Character ID:2
+[07-30 16:25:57]2020,Hairdo 2, Character ID:2
+[07-30 16:25:57]2021,Hairdo 3, Character ID:2
+[07-30 16:25:57]2022,Hairdo 3, Character ID:2
+[07-30 16:25:57]2023,Hairdo 3, Character ID:2
+[07-30 16:25:57]2024,Hairdo 3, Character ID:2
+[07-30 16:25:57]2025,Hairdo 3, Character ID:2
+[07-30 16:25:57]2026,Hairdo 3, Character ID:2
+[07-30 16:25:57]2027,Hairdo 4, Character ID:2
+[07-30 16:25:57]2028,Hairdo 4, Character ID:2
+[07-30 16:25:57]2029,Hairdo 4, Character ID:2
+[07-30 16:25:57]2030,Hairdo 4, Character ID:2
+[07-30 16:25:57]2031,Hairdo 4, Character ID:2
+[07-30 16:25:57]2032,Hairdo 4, Character ID:2
+[07-30 16:25:57]2033,Hairdo 5, Character ID:2
+[07-30 16:25:57]2034,Hairdo 5, Character ID:2
+[07-30 16:25:57]2035,Hairdo 5, Character ID:2
+[07-30 16:25:57]2036,Hairdo 5, Character ID:2
+[07-30 16:25:57]2037,Hairdo 5, Character ID:2
+[07-30 16:25:57]2038,Hairdo 5, Character ID:2
+[07-30 16:25:57]2039,Hairdo 5, Character ID:2
+[07-30 16:25:57]2040,Hairdo 6, Character ID:2
+[07-30 16:25:57]2041,Hairdo 6, Character ID:2
+[07-30 16:25:57]2042,Hairdo 6, Character ID:2
+[07-30 16:25:57]2043,Hairdo 6, Character ID:2
+[07-30 16:25:57]2044,Hairdo 6, Character ID:2
+[07-30 16:25:57]2045,Hairdo 6, Character ID:2
+[07-30 16:25:57]2046,Hairdo 6, Character ID:2
+[07-30 16:25:57]2047,Hairdo 7, Character ID:2
+[07-30 16:25:57]2048,Hairdo 7, Character ID:2
+[07-30 16:25:57]2049,Hairdo 7, Character ID:2
+[07-30 16:25:57]2050,Hairdo 7, Character ID:2
+[07-30 16:25:57]2051,Hairdo 7, Character ID:2
+[07-30 16:25:57]2052,Hairdo 7, Character ID:2
+[07-30 16:25:57]2053,Hairdo 7, Character ID:2
+[07-30 16:25:57]2054,Hairdo 8, Character ID:2
+[07-30 16:25:57]2055,Hairdo 8, Character ID:2
+[07-30 16:25:57]2056,Hairdo 8, Character ID:2
+[07-30 16:25:57]2057,Hairdo 8, Character ID:2
+[07-30 16:25:57]2058,Hairdo 8, Character ID:2
+[07-30 16:25:57]2059,Hairdo 8, Character ID:2
+[07-30 16:25:57]2060,Guy 1 Bald Hairdo, Character ID:2
+[07-30 16:25:57]2061,Lance Failed Hairdo 2, Character ID:2
+[07-30 16:25:57]2062,Hairdo 1, Character ID:1
+[07-30 16:25:57]2063,Hairdo 2, Character ID:1
+[07-30 16:25:57]2064,Hairdo 3, Character ID:1
+[07-30 16:25:57]2065,Hairdo 4, Character ID:1
+[07-30 16:25:57]2066,Hairdo 5, Character ID:1
+[07-30 16:25:57]2067,Hairdo 6, Character ID:1
+[07-30 16:25:57]2068,Hairdo 7, Character ID:1
+[07-30 16:25:57]2069,Hairdo 8, Character ID:1
+[07-30 16:25:57]2070,Event Commissioner, Character ID:1
+[07-30 16:25:57]2071,Hairdo 1, Character ID:1
+[07-30 16:25:57]2072,Hairdo 1, Character ID:1
+[07-30 16:25:57]2073,Hairdo 1, Character ID:1
+[07-30 16:25:57]2074,Hairdo 1, Character ID:1
+[07-30 16:25:57]2075,Hairdo 1, Character ID:1
+[07-30 16:25:57]2076,Hairdo 1, Character ID:1
+[07-30 16:25:57]2077,Hairdo 1, Character ID:1
+[07-30 16:25:57]2078,Hairdo 2, Character ID:1
+[07-30 16:25:57]2079,Hairdo 2, Character ID:1
+[07-30 16:25:57]2080,Hairdo 2, Character ID:1
+[07-30 16:25:57]2081,Hairdo 2, Character ID:1
+[07-30 16:25:57]2082,Hairdo 2, Character ID:1
+[07-30 16:25:57]2083,Hairdo 2, Character ID:1
+[07-30 16:25:57]2084,Hairdo 3, Character ID:1
+[07-30 16:25:57]2085,Hairdo 3, Character ID:1
+[07-30 16:25:57]2086,Hairdo 3, Character ID:1
+[07-30 16:25:57]2087,Hairdo 3, Character ID:1
+[07-30 16:25:57]2088,Hairdo 3, Character ID:1
+[07-30 16:25:57]2089,Hairdo 3, Character ID:1
+[07-30 16:25:57]2090,Hairdo 4, Character ID:1
+[07-30 16:25:57]2091,Hairdo 4, Character ID:1
+[07-30 16:25:57]2092,Hairdo 4, Character ID:1
+[07-30 16:25:57]2093,Hairdo 4, Character ID:1
+[07-30 16:25:57]2094,Hairdo 4, Character ID:1
+[07-30 16:25:57]2095,Hairdo 4, Character ID:1
+[07-30 16:25:57]2096,Hairdo 4, Character ID:1
+[07-30 16:25:57]2097,Hairdo 5, Character ID:1
+[07-30 16:25:57]2098,Hairdo 5, Character ID:1
+[07-30 16:25:57]2099,Hairdo 5, Character ID:1
+[07-30 16:25:57]2100,Hairdo 5, Character ID:1
+[07-30 16:25:57]2101,Hairdo 6, Character ID:1
+[07-30 16:25:57]2102,Hairdo 6, Character ID:1
+[07-30 16:25:57]2103,Hairdo 6, Character ID:1
+[07-30 16:25:57]2104,Hairdo 6, Character ID:1
+[07-30 16:25:57]2105,Hairdo 6, Character ID:1
+[07-30 16:25:57]2106,Hairdo 6, Character ID:1
+[07-30 16:25:57]2107,Hairdo 6, Character ID:1
+[07-30 16:25:57]2108,Hairdo 7, Character ID:1
+[07-30 16:25:57]2109,Hairdo 7, Character ID:1
+[07-30 16:25:57]2110,Hairdo 7, Character ID:1
+[07-30 16:25:57]2111,Hairdo 7, Character ID:1
+[07-30 16:25:57]2112,Hairdo 7, Character ID:1
+[07-30 16:25:57]2113,Hairdo 7, Character ID:1
+[07-30 16:25:57]2114,Hairdo 8, Character ID:1
+[07-30 16:25:57]2115,Hairdo 8, Character ID:1
+[07-30 16:25:57]2116,Hairdo 8, Character ID:1
+[07-30 16:25:57]2117,Hairdo 8, Character ID:1
+[07-30 16:25:57]2118,Hairdo 8, Character ID:1
+[07-30 16:25:57]2119,Hairdo 8, Character ID:1
+[07-30 16:25:57]2120,Hairdo 8, Character ID:1
+[07-30 16:25:57]2121,Carsise Failed Hairdo 1, Character ID:1
+[07-30 16:25:57]2122,Guy 2 Bald Hairdo, Character ID:1
+[07-30 16:25:57]2123,Carsise Failed Hairdo 2, Character ID:1
+[07-30 16:25:57]2124,Hairdo 1, Character ID:1
+[07-30 16:25:57]2125,Hairdo 2, Character ID:1
+[07-30 16:25:57]2126,Hairdo 3, Character ID:1
+[07-30 16:25:57]2127,Hairdo 4, Character ID:1
+[07-30 16:25:57]2128,Hairdo 5, Character ID:1
+[07-30 16:25:57]2129,Hairdo 6, Character ID:1
+[07-30 16:25:57]2130,Hairdo 7, Character ID:1
+[07-30 16:25:57]2131,Hairdo 8, Character ID:1
+[07-30 16:25:57]2132,Event Commissioner, Character ID:1
+[07-30 16:25:57]2133,Hairdo 1, Character ID:1
+[07-30 16:25:57]2134,Hairdo 1, Character ID:1
+[07-30 16:25:57]2135,Hairdo 1, Character ID:1
+[07-30 16:25:57]2136,Hairdo 1, Character ID:1
+[07-30 16:25:57]2137,Hairdo 1, Character ID:1
+[07-30 16:25:57]2138,Hairdo 1, Character ID:1
+[07-30 16:25:57]2139,Hairdo 1, Character ID:1
+[07-30 16:25:57]2140,Hairdo 2, Character ID:1
+[07-30 16:25:57]2141,Hairdo 2, Character ID:1
+[07-30 16:25:57]2142,Hairdo 2, Character ID:1
+[07-30 16:25:57]2143,Hairdo 2, Character ID:1
+[07-30 16:25:57]2144,Hairdo 2, Character ID:1
+[07-30 16:25:57]2145,Hairdo 2, Character ID:1
+[07-30 16:25:57]2146,Hairdo 3, Character ID:1
+[07-30 16:25:57]2147,Hairdo 3, Character ID:1
+[07-30 16:25:57]2148,Hairdo 3, Character ID:1
+[07-30 16:25:57]2149,Hairdo 3, Character ID:1
+[07-30 16:25:57]2150,Hairdo 3, Character ID:1
+[07-30 16:25:57]2151,Hairdo 3, Character ID:1
+[07-30 16:25:57]2152,Hairdo 4, Character ID:1
+[07-30 16:25:57]2153,Hairdo 4, Character ID:1
+[07-30 16:25:57]2154,Hairdo 4, Character ID:1
+[07-30 16:25:57]2155,Hairdo 4, Character ID:1
+[07-30 16:25:57]2156,Hairdo 4, Character ID:1
+[07-30 16:25:57]2157,Hairdo 4, Character ID:1
+[07-30 16:25:57]2158,Hairdo 5, Character ID:1
+[07-30 16:25:57]2159,Hairdo 5, Character ID:1
+[07-30 16:25:57]2160,Hairdo 5, Character ID:1
+[07-30 16:25:57]2161,Hairdo 5, Character ID:1
+[07-30 16:25:57]2162,Hairdo 5, Character ID:1
+[07-30 16:25:57]2163,Hairdo 5, Character ID:1
+[07-30 16:25:57]2164,Hairdo 6, Character ID:1
+[07-30 16:25:57]2165,Hairdo 6, Character ID:1
+[07-30 16:25:57]2166,Hairdo 6, Character ID:1
+[07-30 16:25:57]2167,Hairdo 6, Character ID:1
+[07-30 16:25:57]2168,Hairdo 6, Character ID:1
+[07-30 16:25:57]2169,Hairdo 6, Character ID:1
+[07-30 16:25:57]2170,Hairdo 7, Character ID:1
+[07-30 16:25:57]2171,Hairdo 7, Character ID:1
+[07-30 16:25:57]2172,Hairdo 7, Character ID:1
+[07-30 16:25:57]2173,Hairdo 7, Character ID:1
+[07-30 16:25:57]2174,Hairdo 7, Character ID:1
+[07-30 16:25:57]2175,Hairdo 7, Character ID:1
+[07-30 16:25:57]2176,Hairdo 8, Character ID:1
+[07-30 16:25:57]2177,Hairdo 8, Character ID:1
+[07-30 16:25:57]2178,Hairdo 8, Character ID:1
+[07-30 16:25:57]2179,Hairdo 8, Character ID:1
+[07-30 16:25:57]2180,Hairdo 8, Character ID:1
+[07-30 16:25:57]2181,Hairdo 8, Character ID:1
+[07-30 16:25:57]2182,Phyllis Failed Hairdo 1, Character ID:1
+[07-30 16:25:57]2183,Phyllis Failed Hairdo 2, Character ID:1
+[07-30 16:25:57]2184,Girl 1 Bald Hairdo, Character ID:1
+[07-30 16:25:57]2185,Girl 1 Hair Makeup 01, Character ID:1
+[07-30 16:25:57]2186,Girl 2 Hair 00, Character ID:1
+[07-30 16:25:57]2187,Crabby Cap, Character ID:1
+[07-30 16:25:57]2188,Rooroo Cap, Character ID:1
+[07-30 16:25:57]2189,Playful Racoon Cap, Character ID:1
+[07-30 16:25:57]2190,Duckling Cap, Character ID:1
+[07-30 16:25:57]2191,Big Crab Cap, Character ID:1
+[07-30 16:25:57]2192,Lobster Cap, Character ID:1
+[07-30 16:25:57]2193,Ducky Cap, Character ID:1
+[07-30 16:25:57]2194,Prawn Cap, Character ID:1
+[07-30 16:25:57]2195,Pincer Cap, Character ID:1
+[07-30 16:25:57]2196,Sheepy Cap, Character ID:1
+[07-30 16:25:57]2197,Meowy Cap, Character ID:1
+[07-30 16:25:57]2198,Owl Cap, Character ID:1
+[07-30 16:25:57]2199,Hopperoo Cap, Character ID:1
+[07-30 16:25:57]2200,Clever Otter Cap, Character ID:1
+[07-30 16:25:57]2201,Lucky Otter Cap, Character ID:1
+[07-30 16:25:57]2202,Mousey Cap, Character ID:1
+[07-30 16:25:57]2203,Kitty Cap, Character ID:1
+[07-30 16:25:57]2204,Loopy Bunny Cap, Character ID:1
+[07-30 16:25:57]2205,Goaty Cap, Character ID:1
+[07-30 16:25:57]2206,Deer Cap, Character ID:1
+[07-30 16:25:57]2207,Otter Cap, Character ID:1
+[07-30 16:25:57]2208,Racoon Cap, Character ID:1
+[07-30 16:25:57]2210,Happy Bunny Cap, Character ID:1
+[07-30 16:25:57]2211,Night Owl Cap, Character ID:1
+[07-30 16:25:57]2212,Kangaroo Cap, Character ID:1
+[07-30 16:25:57]2213,Joyful Bunny Cap, Character ID:1
+[07-30 16:25:57]2214,Bunny Baby Cap, Character ID:1
+[07-30 16:25:57]2215,Lucky Bunny Cap, Character ID:1
+[07-30 16:25:57]2217,Event Commissioner, Character ID:1
+[07-30 16:25:57]2218,Happy Panda Cap, Character ID:1
+[07-30 16:25:57]2219,Mystic Panda Cap, Character ID:1
+[07-30 16:25:57]2220,Gold Fish Cap, Character ID:1
+[07-30 16:25:57]2221,Fish Fairy Cap, Character ID:1
+[07-30 16:25:57]2222,Dragon Cap, Character ID:1
+[07-30 16:25:57]2223,Dragon Lord Cap, Character ID:1
+[07-30 16:25:57]2246,Girl 2 Bald Hairdo, Character ID:1
+[07-30 16:25:57]2247,Hairdo 1, Character ID:1
+[07-30 16:25:57]2248,Hairdo 1, Character ID:1
+[07-30 16:25:57]2249,Hairdo 1, Character ID:1
+[07-30 16:25:57]2250,Hairdo 1, Character ID:1
+[07-30 16:25:57]2251,Hairdo 1, Character ID:1
+[07-30 16:25:57]2252,Hairdo 1, Character ID:1
+[07-30 16:25:57]2253,Hairdo 2, Character ID:1
+[07-30 16:25:57]2254,Hairdo 2, Character ID:1
+[07-30 16:25:57]2255,Hairdo 2, Character ID:1
+[07-30 16:25:57]2256,Hairdo 2, Character ID:1
+[07-30 16:25:57]2257,Hairdo 2, Character ID:1
+[07-30 16:25:57]2258,Hairdo 2, Character ID:1
+[07-30 16:25:57]2259,Hairdo 3, Character ID:1
+[07-30 16:25:57]2260,Hairdo 3, Character ID:1
+[07-30 16:25:57]2261,Hairdo 3, Character ID:1
+[07-30 16:25:57]2262,Hairdo 3, Character ID:1
+[07-30 16:25:57]2263,Hairdo 3, Character ID:1
+[07-30 16:25:57]2264,Hairdo 3, Character ID:1
+[07-30 16:25:57]2265,Hairdo 4, Character ID:1
+[07-30 16:25:57]2266,Hairdo 4, Character ID:1
+[07-30 16:25:57]2267,Hairdo 4, Character ID:1
+[07-30 16:25:57]2268,Hairdo 4, Character ID:1
+[07-30 16:25:57]2269,Hairdo 4, Character ID:1
+[07-30 16:25:57]2270,Hairdo 4, Character ID:1
+[07-30 16:25:57]2271,Ami Failed Hairdo 1, Character ID:1
+[07-30 16:25:57]2272,Ami Failed Hairdo 2, Character ID:1
+[07-30 16:25:57]2275,Lance Trendy Hairdo 1, Character ID:2
+[07-30 16:25:57]2276,Lance Trendy Hairdo 2, Character ID:2
+[07-30 16:25:57]2277,Lance Trendy Hairdo 3, Character ID:2
+[07-30 16:25:57]2278,Lance Trendy Hairdo 4, Character ID:2
+[07-30 16:25:57]2279,Carsise Trendy Hairdo 1, Character ID:1
+[07-30 16:25:57]2280,Carsise Trendy Hairdo 2, Character ID:1
+[07-30 16:25:57]2281,Carsise Trendy Hairdo 3, Character ID:1
+[07-30 16:25:57]2282,Carsise Trendy Hairdo 4, Character ID:1
+[07-30 16:25:57]2283,Phyllis Trendy Hairdo 1, Character ID:1
+[07-30 16:25:57]2284,Phyllis Trendy Hairdo 2, Character ID:1
+[07-30 16:25:57]2285,Phyllis Trendy Hairdo 3, Character ID:1
+[07-30 16:25:57]2286,Phyllis Trendy Hairdo 4, Character ID:1
+[07-30 16:25:57]2287,Ami Trendy Hairdo 1, Character ID:1
+[07-30 16:25:57]2288,Ami Trendy Hairdo 2, Character ID:1
+[07-30 16:25:57]2289,Ami Trendy Hairdo 3, Character ID:1
+[07-30 16:25:57]2290,Ami Trendy Hairdo 4, Character ID:1
+[07-30 16:25:57]2291,Hairdo 1, Character ID:1
+[07-30 16:25:57]2292,Little Angel, Character ID:1
+[07-30 16:25:57]2293,Hairdo 3, Character ID:1
+[07-30 16:25:57]2294,Hairdo 4, Character ID:1
+[07-30 16:25:57]2370,Rightful Head of Black Dragon, Character ID:1
+[07-30 16:25:57]2434,Arrow 02, Character ID:1
+[07-30 16:25:57]2448,Gunpowder 02, Character ID:1
+[07-30 16:25:57]2499,Left Plaster Glove, Character ID:1
+[07-30 16:25:57]2500,Left Brawler Glove, Character ID:1
+[07-30 16:25:57]2501,Left Master Glove, Character ID:1
+[07-30 16:25:57]2502,Left Jagged Blade, Character ID:1
+[07-30 16:25:57]2503,Left Cosmo Blade, Character ID:1
+[07-30 16:25:57]2504,Left Tiger Glove, Character ID:1
+[07-30 16:25:57]2505,Left Hand of Death, Character ID:1
+[07-30 16:25:57]2527,Raging Bull Tattoo, Character ID:3
+[07-30 16:25:57]2528,Savage Bull Tattoo, Character ID:3
+[07-30 16:25:57]2529,Primal Tattoo, Character ID:3
+[07-30 16:25:57]2530,Hephaestus Framestone, Character ID:1
+[07-30 16:25:57]2531,Hephaestus Clawstone, Character ID:1
+[07-30 16:25:57]2532,Hephaestus Pawstone, Character ID:1
+[07-30 16:25:57]2533,Hermes Framestone, Character ID:1
+[07-30 16:25:57]2534,Hermes Clawstone, Character ID:1
+[07-30 16:25:57]2535,Hermes Pawstone, Character ID:1
+[07-30 16:25:57]2536,Apollo Framestone, Character ID:1
+[07-30 16:25:57]2537,Apollo Clawstone, Character ID:1
+[07-30 16:25:57]2538,Apollo Pawstone, Character ID:1
+[07-30 16:25:57]2539,Poseidon Framestone, Character ID:1
+[07-30 16:25:57]2540,Poseidon Clawstone, Character ID:1
+[07-30 16:25:57]2541,Poseidon Pawstone, Character ID:1
+[07-30 16:25:57]2542,Hestia Framestone, Character ID:1
+[07-30 16:25:57]2543,Hestia Clawstone, Character ID:1
+[07-30 16:25:57]2544,Hestia Pawstone, Character ID:1
+[07-30 16:25:57]2545,Athena Framestone, Character ID:1
+[07-30 16:25:57]2546,Athena Clawstone, Character ID:1
+[07-30 16:25:57]2547,Athena Pawstone, Character ID:1
+[07-30 16:25:57]2548,Artemis Crownstone, Character ID:1
+[07-30 16:25:57]2552,Corporeal Kylin Cap, Character ID:1
+[07-30 16:25:57]2553,Ami SiSi  Hat, Character ID:1
+[07-30 16:25:57]2583,QiQii Hat, Character ID:2
+[07-30 16:25:57]2584,FeiFei Hat, Character ID:1
+[07-30 16:25:57]2817,Hardin's Bind, Character ID:1
+[07-30 16:25:57]2818,Hardin's Touch, Character ID:1
+[07-30 16:25:57]2819,Hardin's Print, Character ID:1
+[07-30 16:25:57]2820,Darkness's Shadow, Character ID:2
+[07-30 16:25:57]2821,Darkness's Touch, Character ID:2
+[07-30 16:25:57]2822,Darkness's Trace, Character ID:2
+[07-30 16:25:57]2823,Abaddon's Seal, Character ID:2
+[07-30 16:25:57]2824,Abaddon's Hand, Character ID:2
+[07-30 16:25:57]2825,Abaddon's Brace, Character ID:2
+[07-30 16:25:57]2826,Asura's Protection, Character ID:2
+[07-30 16:25:57]2827,Asura's Caress, Character ID:2
+[07-30 16:25:57]2828,Asura's Dance, Character ID:2
+[07-30 16:25:57]2829,Abyss's Possession, Character ID:1
+[07-30 16:25:57]2830,Hands of Death, Character ID:1
+[07-30 16:25:57]2831,Abyss's Trail, Character ID:1
+[07-30 16:25:57]2832,Styx's Torso, Character ID:1
+[07-30 16:25:57]2833,Styx's Span, Character ID:1
+[07-30 16:25:57]2834,Styx's Wanderer, Character ID:1
+[07-30 16:25:57]3061,Bear Shoes, Character ID:1
+[07-30 16:25:57]3285,Calculator, Character ID:1
+[07-30 16:25:57]3287,Laptop Computer, Character ID:1
+[07-30 16:25:57]4147,Spirit Beast Tattoo, Character ID:3
+[07-30 16:25:57]4148,Arcane Beast Tattoo, Character ID:3
+[07-30 16:25:57]4149,Capricious Battle Armor, Character ID:3
+[07-30 16:25:57]4150,Sagacious Battle Armor, Character ID:3
+[07-30 16:25:57]4151,Robe of Perception, Character ID:2
+[07-30 16:25:57]4152,Robe of Gallant, Character ID:2
+[07-30 16:25:57]4153,Nautical Coat, Character ID:2
+[07-30 16:25:57]4154,Arcane Lobster Costume, Character ID:1
+[07-30 16:25:57]4155,Robe of Stride, Character ID:2
+[07-30 16:25:57]4156,Pique Lobster Costume, Character ID:1
+[07-30 16:25:57]4157,Robe of Melody, Character ID:1
+[07-30 16:25:57]4158,Arcane Bunny Costume, Character ID:1
+[07-30 16:25:57]4159,Robe of Spirit, Character ID:1
+[07-30 16:25:57]4160,Pique Bunny Costume, Character ID:1
+[07-30 16:25:57]4161,Robe of Vengence, Character ID:1
+[07-30 16:25:57]4162,Arcane Otter Costume, Character ID:1
+[07-30 16:25:57]4163,Robe of Amercement, Character ID:1
+[07-30 16:25:57]4164,Pique Otter Costume, Character ID:1
+[07-30 16:25:57]4165,Capricious Battle Gauntlets, Character ID:3
+[07-30 16:25:57]4166,Sagacious Battle Gauntlets, Character ID:3
+[07-30 16:25:57]4167,Gloves of Perception, Character ID:2
+[07-30 16:25:57]4168,Gloves of Gallant, Character ID:2
+[07-30 16:25:57]4169,Nautical Gloves, Character ID:2
+[07-30 16:25:57]4170,Arcane Lobster Muffs, Character ID:1
+[07-30 16:25:57]4171,Gloves of Stride, Character ID:2
+[07-30 16:25:57]4172,Pique Lobster Muffs, Character ID:1
+[07-30 16:25:57]4173,Gloves of Melody, Character ID:1
+[07-30 16:25:57]4174,Arcane Bunny Muffs, Character ID:1
+[07-30 16:25:57]4175,Gloves of Spirit, Character ID:1
+[07-30 16:25:57]4176,Pique Bunny Muffs, Character ID:1
+[07-30 16:25:57]4177,Gloves of Vengence, Character ID:1
+[07-30 16:25:57]4178,Arcane Otter Muffs, Character ID:1
+[07-30 16:25:57]4179,Gloves of Amercement, Character ID:1
+[07-30 16:25:57]4180,Pique Otter Muffs, Character ID:1
+[07-30 16:25:57]4181,Capricious Battle Greaves, Character ID:3
+[07-30 16:25:57]4182,Sagacious Battle Greaves, Character ID:3
+[07-30 16:25:57]4183,Boots of Perception, Character ID:2
+[07-30 16:25:57]4184,Boots of Gallant, Character ID:2
+[07-30 16:25:57]4185,Nautical Boots, Character ID:2
+[07-30 16:25:57]4186,Arcane Lobster Shoes, Character ID:1
+[07-30 16:25:57]4187,Boots of Stride, Character ID:2
+[07-30 16:25:57]4188,Pique Lobster Shoes, Character ID:1
+[07-30 16:25:57]4189,Boots of Melody, Character ID:1
+[07-30 16:25:57]4190,Arcane Bunny Shoes, Character ID:1
+[07-30 16:25:57]4191,Boots of Spirit, Character ID:1
+[07-30 16:25:57]4192,Pique Bunny Shoes, Character ID:1
+[07-30 16:25:57]4193,Boots of Vengence, Character ID:1
+[07-30 16:25:57]4194,Arcane Otter Shoes, Character ID:1
+[07-30 16:25:57]4195,Boots of Amercement, Character ID:1
+[07-30 16:25:57]4196,Pique Otter Shoes, Character ID:1
+[07-30 16:25:57]5013,Robe of the Chilling Heart, Character ID:2
+[07-30 16:25:57]5014,Modern Caveman Robe, Character ID:1
+[07-30 16:25:57]5015,Alluring Grand Robe, Character ID:1
+[07-30 16:25:57]5016,Country Robe, Character ID:1
+[07-30 16:25:57]5017,Robe of the Frozen Heart, Character ID:2
+[07-30 16:25:57]5018,Wild Caveman Robe, Character ID:1
+[07-30 16:25:57]5019,Winter Grand Robe, Character ID:1
+[07-30 16:25:57]5020,Carillon Robe, Character ID:1
+[07-30 16:25:57]5021,Gloves of the Chilling Heart, Character ID:2
+[07-30 16:25:57]5022,Modern Caveman Gloves, Character ID:1
+[07-30 16:25:57]5023,Alluring Grand Gloves, Character ID:1
+[07-30 16:25:57]5024,Country Gloves, Character ID:1
+[07-30 16:25:57]5025,Gloves of the Frozen Heart, Character ID:2
+[07-30 16:25:57]5026,Wild Caveman Gloves, Character ID:1
+[07-30 16:25:57]5027,Winter Grand Gloves, Character ID:1
+[07-30 16:25:57]5028,Carillon Gloves, Character ID:1
+[07-30 16:25:57]5029,Boots of the Chilling Heart, Character ID:2
+[07-30 16:25:57]5030,Modern Caveman Boots, Character ID:1
+[07-30 16:25:57]5031,Alluring Grand Boots, Character ID:1
+[07-30 16:25:57]5032,Country Boots, Character ID:1
+[07-30 16:25:57]5033,Boots of the Frozen Heart, Character ID:2
+[07-30 16:25:57]5034,Wild Caveman Boots, Character ID:1
+[07-30 16:25:57]5035,Winter Grand Boots, Character ID:1
+[07-30 16:25:57]5036,Carillon Boots, Character ID:1
+[07-30 16:25:57]5037,Country Cap, Character ID:1
+[07-30 16:25:57]5038,Carillon Cap, Character ID:1
+[07-30 16:25:57]5039,Tattoo of the Burning Dragon, Character ID:1
+[07-30 16:25:57]5040,Tattoo of the Frozen Dragon, Character ID:1
+[07-30 16:25:57]5041,Armor of Catacomb, Character ID:2
+[07-30 16:25:57]5042,Torso of Catacomb, Character ID:1
+[07-30 16:25:57]5043,Coat of Catacomb, Character ID:1
+[07-30 16:25:57]5044,Costume of Catacomb, Character ID:1
+[07-30 16:25:57]5045,Gauntlets of Catacomb, Character ID:2
+[07-30 16:25:57]5046,Gage of Catacomb, Character ID:1
+[07-30 16:25:57]5047,Gloves of Catacomb, Character ID:1
+[07-30 16:25:57]5048,Muffs of Catacomb, Character ID:1
+[07-30 16:25:57]5049,Greaves of Catacomb, Character ID:2
+[07-30 16:25:57]5050,Sandals of Catacomb, Character ID:1
+[07-30 16:25:57]5051,Boots of Catacomb, Character ID:1
+[07-30 16:25:57]5052,Waders of Catacomb, Character ID:1
+[07-30 16:25:57]5056,Crown of Catacomb, Character ID:1
+[07-30 16:25:57]5057,Armor of Buccaneer, Character ID:2
+[07-30 16:25:57]5058,Torso of Buccaneer, Character ID:1
+[07-30 16:25:57]5059,Coat of Buccaneer, Character ID:1
+[07-30 16:25:57]5060,Costume of Buccaneer, Character ID:1
+[07-30 16:25:57]5061,Gauntlets of Buccaneer, Character ID:2
+[07-30 16:25:57]5062,Gage of Buccaneer, Character ID:1
+[07-30 16:25:57]5063,Gloves of Buccaneer, Character ID:1
+[07-30 16:25:57]5064,Muffs of Buccaneer, Character ID:1
+[07-30 16:25:57]5065,Greaves of Buccaneer, Character ID:2
+[07-30 16:25:57]5066,Sandals of Buccaneer, Character ID:1
+[07-30 16:25:57]5067,Boots of Buccaneer, Character ID:1
+[07-30 16:25:57]5068,Waders of Buccaneer, Character ID:1
+[07-30 16:25:57]5069,Crown of Buccaneer, Character ID:1
+[07-30 16:25:57]5075,Leather Vest, Character ID:2
+[07-30 16:25:57]5076,Leather Gloves, Character ID:2
+[07-30 16:25:57]5077,Leather Boots, Character ID:2
+[07-30 16:25:57]5078,Warrior Frock, Character ID:2
+[07-30 16:25:57]5079,Warrior Gloves, Character ID:2
+[07-30 16:25:57]5080,Warrior Boots, Character ID:2
+[07-30 16:25:57]5081,Nightmare Vest, Character ID:1
+[07-30 16:25:57]5082,Nightmare Gloves, Character ID:1
+[07-30 16:25:57]5083,Nightmare Boots, Character ID:1
+[07-30 16:25:57]5084,Seaman Vest, Character ID:1
+[07-30 16:25:57]5085,Seaman Gloves, Character ID:1
+[07-30 16:25:57]5086,Seaman Boots, Character ID:1
+[07-30 16:25:57]5087,Shark Hide Armor, Character ID:1
+[07-30 16:25:57]5088,Shark Hide Gloves, Character ID:1
+[07-30 16:25:57]5089,Shark Hide Boots, Character ID:1
+[07-30 16:25:57]5090,Sailor Vest, Character ID:1
+[07-30 16:25:57]5091,Sailor Gloves, Character ID:1
+[07-30 16:25:57]5092,Sailor Boots, Character ID:1
+[07-30 16:25:57]5093,Navy Vest, Character ID:1
+[07-30 16:25:57]5094,Navy Gloves, Character ID:1
+[07-30 16:25:57]5095,Navy Boots, Character ID:1
+[07-30 16:25:57]5096,Captain's Jacket, Character ID:1
+[07-30 16:25:57]5097,Captain's Gloves, Character ID:1
+[07-30 16:25:57]5098,Captain's Boots, Character ID:1
+[07-30 16:25:57]5106,Clowny Hat, Character ID:1
+[07-30 16:25:57]5107,Bloody Captain Shirt, Character ID:1
+[07-30 16:25:57]5108,Bloody Captain Gloves, Character ID:1
+[07-30 16:25:57]5109,Bloody Captain Shoes, Character ID:1
+[07-30 16:25:57]5110,Sahara Crocodile Crown, Character ID:1
+[07-30 16:25:57]5111,Sahara Crocodile Vest, Character ID:1
+[07-30 16:25:57]5112,Sahara Crocodile Gloves, Character ID:1
+[07-30 16:25:57]5113,Sahara Crocodile Boots, Character ID:1
+[07-30 16:25:57]5114,Crazed Cowboy, Character ID:1
+[07-30 16:25:57]5115,Smoker Navy Vest, Character ID:1
+[07-30 16:25:57]5116,Smoker Navy Gloves, Character ID:1
+[07-30 16:25:57]5117,Smoker Navy Boots, Character ID:1
+[07-30 16:25:57]5118,Straw Hat, Character ID:2
+[07-30 16:25:57]5119,Straw Shirt, Character ID:2
+[07-30 16:25:57]5120,Straw Gloves, Character ID:2
+[07-30 16:25:57]5121,Straw Shoes, Character ID:2
+[07-30 16:25:57]5122,Lone Swordsman, Character ID:2
+[07-30 16:25:57]5123,Tri-Blader Shirt, Character ID:2
+[07-30 16:25:57]5124,Tri-Blader Gloves, Character ID:2
+[07-30 16:25:57]5125,Tri-Blader Boots, Character ID:2
+[07-30 16:25:57]5126,Romantic Star, Character ID:2
+[07-30 16:25:57]5127,Brutal Chef Coat, Character ID:2
+[07-30 16:25:57]5128,Brutal Chef Gloves, Character ID:2
+[07-30 16:25:57]5129,Brutal Chef Boots, Character ID:2
+[07-30 16:25:57]5130,Happy Reindeer Cap, Character ID:1
+[07-30 16:25:57]5131,Happy Reindeer Costume, Character ID:1
+[07-30 16:25:57]5132,Happy Reindeer Muffs, Character ID:1
+[07-30 16:25:57]5133,Happy Reindeer Shoes, Character ID:1
+[07-30 16:25:57]5134,Shrooms Cap, Character ID:1
+[07-30 16:25:57]5135,Shrooms Costume, Character ID:1
+[07-30 16:25:57]5136,Shrooms Muffs, Character ID:1
+[07-30 16:25:57]5137,Shrooms Shoes, Character ID:1
+[07-30 16:25:57]5138,Little Bee Cap, Character ID:1
+[07-30 16:25:57]5139,Little Bee Costume, Character ID:1
+[07-30 16:25:57]5140,Little Bee Muffs, Character ID:1
+[07-30 16:25:57]5141,Little Bee Shoes, Character ID:1
+[07-30 16:25:57]5142,Dainty Doll, Character ID:1
+[07-30 16:25:57]5143,Dainty Bodice, Character ID:1
+[07-30 16:25:57]5144,Dainty Gloves, Character ID:1
+[07-30 16:25:57]5145,Dainty Shoes, Character ID:1
+[07-30 16:25:57]5146,Sassy Princess, Character ID:1
+[07-30 16:25:57]5147,Shaitan Princess Bodice, Character ID:1
+[07-30 16:25:57]5148,Shaitan Princess Gloves, Character ID:1
+[07-30 16:25:57]5149,Shaitan Princess Shoes, Character ID:1
+[07-30 16:25:57]5150,Femme Fatale, Character ID:1
+[07-30 16:25:57]5151,Sexy Coat, Character ID:1
+[07-30 16:25:57]5152,Sexy Gloves, Character ID:1
+[07-30 16:25:57]5153,Sexy Boots, Character ID:1
+[07-30 16:25:57]5154,Tiger Armor of Cavalry, Character ID:2
+[07-30 16:25:57]5155,Tiger Gauntlets of Cavalry, Character ID:2
+[07-30 16:25:57]5156,Tiger Greaves of Cavalry, Character ID:2
+[07-30 16:25:57]5157,Capricious Robe of Dragon, Character ID:2
+[07-30 16:25:57]5158,Capricious Gloves of Dragon, Character ID:2
+[07-30 16:25:57]5159,Capricious Boots of Dragon, Character ID:2
+[07-30 16:25:57]5160,Ember Armor of Caesar, Character ID:2
+[07-30 16:25:57]5161,Ember Gauntlets of Caesar, Character ID:2
+[07-30 16:25:57]5162,Ember Greaves of Caesar, Character ID:2
+[07-30 16:25:57]5163,New Carsise Torso 1, Character ID:1
+[07-30 16:25:57]5164,New Carsise Gloves 1, Character ID:1
+[07-30 16:25:57]5165,New Carsise Shoes 1, Character ID:1
+[07-30 16:25:57]5166,Tiger Armor of Cavalry, Character ID:1
+[07-30 16:25:57]5167,Tiger Gauntlets of Cavalry, Character ID:1
+[07-30 16:25:57]5168,Tiger Greaves of Cavalry, Character ID:1
+[07-30 16:25:57]5169,Capricious Robe of Dragon, Character ID:1
+[07-30 16:25:57]5170,Capricious Gloves of Dragon, Character ID:1
+[07-30 16:25:57]5171,Capricious Boots of Dragon, Character ID:1
+[07-30 16:25:57]5172,Dark Blue Vest of Fate, Character ID:1
+[07-30 16:25:57]5173,Dark Blue Gloves of Fate, Character ID:1
+[07-30 16:25:57]5174,Dark Blue Boots of Fate, Character ID:1
+[07-30 16:25:57]5175,Aliya Mini Shirt, Character ID:1
+[07-30 16:25:57]5176,Aliya Mini Gloves, Character ID:1
+[07-30 16:25:57]5177,Aliya Mini Shoes, Character ID:1
+[07-30 16:25:57]5178,Aliya Mini Cap, Character ID:1
+[07-30 16:25:57]5179,Sweetie Robe, Character ID:1
+[07-30 16:25:57]5180,Sweetie Gloves, Character ID:1
+[07-30 16:25:57]5181,Sweetie Shoes, Character ID:1
+[07-30 16:25:57]5182,Sweetie Cap, Character ID:1
+[07-30 16:25:57]5183,Azure Robe of Fairy, Character ID:1
+[07-30 16:25:57]5184,Azure Gloves of Fairy, Character ID:1
+[07-30 16:25:57]5185,Azure Boots of Fairy, Character ID:1
+[07-30 16:25:57]5186,Azure Crown of Fairy, Character ID:1
+[07-30 16:25:57]5187,Noble Lion Costume, Character ID:1
+[07-30 16:25:57]5188,Noble Lion Muffs, Character ID:1
+[07-30 16:25:57]5189,Noble Lion Paw, Character ID:1
+[07-30 16:25:57]5190,Noble Lion Crown, Character ID:1
+[07-30 16:25:57]5191,Silk Bunny Costume, Character ID:1
+[07-30 16:25:57]5192,Silk Bunny Muffs, Character ID:1
+[07-30 16:25:57]5193,Silk Bunny Shoes, Character ID:1
+[07-30 16:25:57]5194,Silk Bunny Cap, Character ID:1
+[07-30 16:25:57]5195,Royal Major Vest, Character ID:1
+[07-30 16:25:57]5196,Royal Major Gloves, Character ID:1
+[07-30 16:25:57]5197,Royal Major Boots, Character ID:1
+[07-30 16:25:57]5198,Royal Major Vest, Character ID:1
+[07-30 16:25:57]5199,Royal Major Gloves, Character ID:1
+[07-30 16:25:57]5200,Royal Major Boots, Character ID:1
+[07-30 16:25:57]5201,Royal Major Hat, Character ID:1
+[07-30 16:25:57]5202,Royal Major Vest, Character ID:1
+[07-30 16:25:57]5203,Royal Major Gloves, Character ID:1
+[07-30 16:25:57]5204,Royal Major Boots, Character ID:1
+[07-30 16:25:57]5205,Royal Major Vest, Character ID:2
+[07-30 16:25:57]5206,Royal Major Gloves, Character ID:2
+[07-30 16:25:57]5207,Royal Major Boots, Character ID:2
+[07-30 16:25:57]5218,Summer Storm, Character ID:1
+[07-30 16:25:57]5219,Dynamic Royal, Character ID:1
+[07-30 16:25:57]5220,Crimson Gold Plume, Character ID:2
+[07-30 16:25:57]5221,Lance Dark Royal Robe, Character ID:2
+[07-30 16:25:57]5222,Lance Dark Royal Gloves, Character ID:2
+[07-30 16:25:57]5223,Lance Dark Royal Boots, Character ID:2
+[07-30 16:25:57]5224,Lance Priest Robe, Character ID:2
+[07-30 16:25:57]5225,Lance Priest Gloves, Character ID:2
+[07-30 16:25:57]5226,Lance Priest Boots, Character ID:2
+[07-30 16:25:57]5227,Lance Bruce Tights, Character ID:2
+[07-30 16:25:57]5228,Lance Bruce Gloves, Character ID:2
+[07-30 16:25:57]5229,Lance Bruce Shoes, Character ID:2
+[07-30 16:25:57]5230,Carsise Bishop Cap, Character ID:1
+[07-30 16:25:57]5231,Carsise Bishop Robe, Character ID:1
+[07-30 16:25:57]5232,Carsise Bishop Gloves, Character ID:1
+[07-30 16:25:57]5233,Carsise Bishop Boots, Character ID:1
+[07-30 16:25:57]5234,Carsise Ranger Beret, Character ID:1
+[07-30 16:25:57]5235,Carsise Ranger Shirt, Character ID:1
+[07-30 16:25:57]5236,Carsise Ranger Gloves, Character ID:1
+[07-30 16:25:57]5237,Carsise Ranger Boots, Character ID:1
+[07-30 16:25:57]5238,Carsise Ebony Robe, Character ID:1
+[07-30 16:25:57]5239,Carsise Ebony Gloves, Character ID:1
+[07-30 16:25:57]5240,Carsise Ebony Boots, Character ID:1
+[07-30 16:25:57]5241,Phyllis Bruce Tights, Character ID:1
+[07-30 16:25:57]5242,Phyllis Bruce Gloves, Character ID:1
+[07-30 16:25:57]5243,Phyllis Bruce Shoes, Character ID:1
+[07-30 16:25:57]5244,Phyllis Wedding Veil, Character ID:1
+[07-30 16:25:57]5245,Phyllis Wedding Gown, Character ID:1
+[07-30 16:25:57]5246,Phyllis Wedding Gloves, Character ID:1
+[07-30 16:25:57]5247,Phyllis Wedding Shoes, Character ID:1
+[07-30 16:25:57]5248,Phyllis Vestal Wrap, Character ID:1
+[07-30 16:25:57]5249,Phyllis Vestal Costume, Character ID:1
+[07-30 16:25:57]5250,Phyllis Vestal Gloves, Character ID:1
+[07-30 16:25:57]5251,Phyllis Vestal Shoes, Character ID:1
+[07-30 16:25:57]5252,Ami Wedding Veil, Character ID:1
+[07-30 16:25:57]5253,Ami Wedding Gown, Character ID:1
+[07-30 16:25:57]5254,Ami Wedding Gloves, Character ID:1
+[07-30 16:25:57]5255,Ami Wedding Shoes, Character ID:1
+[07-30 16:25:57]5256,Ami Vestal Cap, Character ID:1
+[07-30 16:25:57]5257,Ami Vestal Costume, Character ID:1
+[07-30 16:25:57]5258,Ami Vestal Gloves, Character ID:1
+[07-30 16:25:57]5259,Ami Vestal Shoes, Character ID:1
+[07-30 16:25:57]5260,Ami Chibi Cap, Character ID:1
+[07-30 16:25:57]5261,Ami Chibi Costume, Character ID:1
+[07-30 16:25:57]5262,Ami Chibi Gloves, Character ID:1
+[07-30 16:25:57]5263,Ami Chibi Shoes, Character ID:1
+[07-30 16:25:57]5264,Lance Christmas Shirt, Character ID:2
+[07-30 16:25:57]5265,Lance Christmas Gloves, Character ID:2
+[07-30 16:25:57]5266,Lance Christmas Boots, Character ID:2
+[07-30 16:25:57]5267,Carsise Christmas Shirt, Character ID:1
+[07-30 16:25:57]5268,Carsise Christmas Gloves, Character ID:1
+[07-30 16:25:57]5269,Carsise Christmas Boots, Character ID:1
+[07-30 16:25:57]5270,Phyllis Christmas Shirt, Character ID:1
+[07-30 16:25:57]5271,Phyllis Christmas Gloves, Character ID:1
+[07-30 16:25:57]5272,Phyllis Christmas Boots, Character ID:1
+[07-30 16:25:57]5273,Ami Christmas Shirt, Character ID:1
+[07-30 16:25:57]5274,Ami Christmas Gloves, Character ID:1
+[07-30 16:25:57]5275,Ami Christmas Boots, Character ID:1
+[07-30 16:25:57]5287,Lance Fortune Cap, Character ID:2
+[07-30 16:25:57]5288,Lance Fortune Robe, Character ID:2
+[07-30 16:25:57]5289,Lance Fortune Gloves, Character ID:2
+[07-30 16:25:57]5290,Lance Fortune Shoes, Character ID:2
+[07-30 16:25:57]5291,Carsise Fortune Cap, Character ID:1
+[07-30 16:25:57]5292,Carsise Fortune Robe, Character ID:1
+[07-30 16:25:57]5293,Carsise Fortune Gloves, Character ID:1
+[07-30 16:25:57]5294,Carsise Fortune Shoes, Character ID:1
+[07-30 16:25:57]5295,Phyllis Fortune Cap, Character ID:1
+[07-30 16:25:57]5296,Phyllis Fortune Robe, Character ID:1
+[07-30 16:25:57]5297,Phyllis Fortune Gloves, Character ID:1
+[07-30 16:25:57]5298,Phyllis Fortune Shoes, Character ID:1
+[07-30 16:25:57]5299,Ami Fortune Cap, Character ID:1
+[07-30 16:25:57]5300,Ami Fortune Robe, Character ID:1
+[07-30 16:25:57]5301,Ami Fortune Gloves, Character ID:1
+[07-30 16:25:57]5302,Ami Fortune Shoes, Character ID:1
+[07-30 16:25:57]5303,Lance Romantic Shirt, Character ID:2
+[07-30 16:25:57]5304,Lance Romantic Gloves, Character ID:2
+[07-30 16:25:57]5305,Lance Romantic Boots, Character ID:2
+[07-30 16:25:57]5306,Carsise Romantic Shirt, Character ID:1
+[07-30 16:25:57]5307,Carsise Romantic Gloves, Character ID:1
+[07-30 16:25:57]5308,Carsise Romantic Boots, Character ID:1
+[07-30 16:25:57]5309,Phyllis Romantic Blouse, Character ID:1
+[07-30 16:25:57]5310,Phyllis Romantic Muffs, Character ID:1
+[07-30 16:25:57]5311,Phyllis Romantic Shoes, Character ID:1
+[07-30 16:25:57]5312,Ami Romantic Dress, Character ID:1
+[07-30 16:25:57]5313,Ami Romantic Gloves, Character ID:1
+[07-30 16:25:57]5314,Ami Romantic Boots, Character ID:1
+[07-30 16:25:57]5315,Lance Piggy Beret, Character ID:2
+[07-30 16:25:57]5316,Lance Piggy Shirt, Character ID:2
+[07-30 16:25:57]5317,Lance Piggy Gloves, Character ID:2
+[07-30 16:25:57]5318,Lance Piggy Boots, Character ID:2
+[07-30 16:25:57]5319,Carsise Piggy Beret, Character ID:1
+[07-30 16:25:57]5320,Carsise Piggy Armor, Character ID:1
+[07-30 16:25:57]5321,Carsise Piggy Gloves, Character ID:1
+[07-30 16:25:57]5322,Carsise Piggy Boots, Character ID:1
+[07-30 16:25:57]5323,Phyllis Piggy Bonnet, Character ID:1
+[07-30 16:25:57]5324,Phyllis Piggy Blouse, Character ID:1
+[07-30 16:25:57]5325,Phyllis Piggy Gloves, Character ID:1
+[07-30 16:25:57]5326,Phyllis Piggy Boots, Character ID:1
+[07-30 16:25:57]5327,Ami Piggy Cap, Character ID:1
+[07-30 16:25:57]5328,Ami Piggy Costume, Character ID:1
+[07-30 16:25:57]5329,Ami Piggy Muffs, Character ID:1
+[07-30 16:25:57]5330,Ami Piggy Shoes, Character ID:1
+[07-30 16:25:57]5341,Lance Aries Armor, Character ID:2
+[07-30 16:25:57]5342,Lance Aries Gauntlets, Character ID:2
+[07-30 16:25:57]5343,Lance Aries Greaves, Character ID:2
+[07-30 16:25:57]5345,Carsise Aries Armor, Character ID:1
+[07-30 16:25:57]5346,Carsise Aries Gauntlets, Character ID:1
+[07-30 16:25:57]5347,Carsise Aries Greaves, Character ID:1
+[07-30 16:25:57]5349,Phyllis Aries Forlorn, Character ID:1
+[07-30 16:25:57]5350,Phyllis Aries Gauntlets, Character ID:1
+[07-30 16:25:57]5351,Phyllis Aries Greaves, Character ID:1
+[07-30 16:25:57]5352,Ami Aries Diadem, Character ID:1
+[07-30 16:25:57]5353,Ami Aries Costume, Character ID:1
+[07-30 16:25:57]5354,Ami Aries Muffs, Character ID:1
+[07-30 16:25:57]5355,Ami Aries Shoes, Character ID:1
+[07-30 16:25:57]5356,Lance Betrayal of Taurus, Character ID:2
+[07-30 16:25:57]5357,Lance Loneliness of Taurus, Character ID:2
+[07-30 16:25:57]5358,Lance Touch of Taurus, Character ID:2
+[07-30 16:25:57]5359,Lance Flowing Sand of Lance, Character ID:2
+[07-30 16:25:57]5360,Carsise Betrayal of Taurus, Character ID:1
+[07-30 16:25:57]5361,Carsise Loneliness of Taurus, Character ID:1
+[07-30 16:25:57]5362,Carsise Touch of Taurus, Character ID:1
+[07-30 16:25:57]5363,Carsise Flowing Sand of Taurus, Character ID:1
+[07-30 16:25:57]5364,Phyllis Betrayal of Taurus, Character ID:1
+[07-30 16:25:57]5365,Phllyis Loneliness of Taurus, Character ID:1
+[07-30 16:25:57]5366,Phyllis Touch of Taurus, Character ID:1
+[07-30 16:25:57]5367,Phyllis Flowing Sand of Taurus, Character ID:1
+[07-30 16:25:57]5368,Ami Betrayal of Taurus, Character ID:1
+[07-30 16:25:57]5369,Ami's Loneliness of Taurus, Character ID:1
+[07-30 16:25:57]5370,Ami Touch of Taurus, Character ID:1
+[07-30 16:25:57]5371,Ami Flowing Sand of Taurus, Character ID:1
+[07-30 16:25:57]5372,Lance Betrayal of Gemini, Character ID:2
+[07-30 16:25:57]5373,Lance Loneliness of Gemini, Character ID:2
+[07-30 16:25:57]5374,Lance Touch of Gemini, Character ID:2
+[07-30 16:25:57]5375,Lance Flowing Sand of Gemini, Character ID:2
+[07-30 16:25:57]5376,Carsise Betrayal of Gemini, Character ID:1
+[07-30 16:25:57]5377,Carsise Loneliness of Gemini, Character ID:1
+[07-30 16:25:57]5378,Carsise Touch of Gemini, Character ID:1
+[07-30 16:25:57]5379,Carsise Flowing Sand of Gemini, Character ID:1
+[07-30 16:25:57]5380,Phllyis Betrayal of Gemini, Character ID:1
+[07-30 16:25:57]5381,Phyllis Loneliness of Gemini, Character ID:1
+[07-30 16:25:57]5382,Phyllis moves of Gemini, Character ID:1
+[07-30 16:25:57]5383,Phyllis Flowing Sand of Gemini, Character ID:1
+[07-30 16:25:57]5384,Ami Betrayal of Gemini, Character ID:1
+[07-30 16:25:57]5385,Ami's Loneliness of Gemini, Character ID:1
+[07-30 16:25:57]5386,Ami Touch of Gemini, Character ID:1
+[07-30 16:25:57]5387,Ami Flowing Sand of Gemini, Character ID:1
+[07-30 16:25:57]5388,Street Love Hat-Lance, Character ID:2
+[07-30 16:25:57]5389,Street Love Robe-Lance, Character ID:2
+[07-30 16:25:57]5390,Street Love Gloves-Lance, Character ID:2
+[07-30 16:25:57]5391,Street Love Shoes-Lance, Character ID:2
+[07-30 16:25:57]5392,Busker's Hat-Carsise, Character ID:1
+[07-30 16:25:57]5393,Busker's Robe-Carsise, Character ID:1
+[07-30 16:25:57]5394,Busker's Gloves-Carsise, Character ID:1
+[07-30 16:25:57]5395,Busker's Boots-Carsise, Character ID:1
+[07-30 16:25:57]5396,Fantasy Hat-Phyllis, Character ID:1
+[07-30 16:25:57]5397,Fantasy Robe-Phyllis, Character ID:1
+[07-30 16:25:57]5398,Fantasy Gloves-Phyllis, Character ID:1
+[07-30 16:25:57]5399,Fantasy Boots-Phyllis, Character ID:1
+[07-30 16:25:57]5400,Hunny Hat-Ami, Character ID:1
+[07-30 16:25:57]5401,Hunny Robe-Ami, Character ID:1
+[07-30 16:25:57]5402,Hunny Gloves-Ami, Character ID:1
+[07-30 16:25:57]5403,Hunny Boots-Ami, Character ID:1
+[07-30 16:25:57]5404,Baccalaureate Hat-Lance, Character ID:2
+[07-30 16:25:57]5405,Baccalaureate Gown-Lance, Character ID:2
+[07-30 16:25:57]5406,Baccalaureate Shoes-Lance, Character ID:2
+[07-30 16:25:57]5407,Baccalaureate Hat-Carsise, Character ID:1
+[07-30 16:25:57]5408,Baccalaureate Gown-Carsise, Character ID:1
+[07-30 16:25:57]5409,Baccalaureate Shoes-Carsise, Character ID:1
+[07-30 16:25:57]5410,Baccalaureate Hat-Phyllis, Character ID:1
+[07-30 16:25:57]5411,Baccalaureate Gown-Phyllis, Character ID:1
+[07-30 16:25:57]5412,Baccalaureate Shoes-Phyllis, Character ID:1
+[07-30 16:25:57]5413,Baccalaureate Hat-Ami, Character ID:1
+[07-30 16:25:57]5414,Baccalaureate Gown-Ami, Character ID:1
+[07-30 16:25:57]5415,Baccalaureate Shoes-Ami, Character ID:1
+[07-30 16:25:57]5416,Student Gown-Phyllis, Character ID:1
+[07-30 16:25:57]5417,Student Gloves-Phyllis, Character ID:1
+[07-30 16:25:57]5418,Student Shoes-Phyllis, Character ID:1
+[07-30 16:25:57]5419,Student Gown-Ami, Character ID:1
+[07-30 16:25:57]5420,Student Gloves-Ami, Character ID:1
+[07-30 16:25:57]5421,Student Shoes-Ami, Character ID:1
+[07-30 16:25:57]5422,Romantic Pas Robe-Lance, Character ID:2
+[07-30 16:25:57]5423,Romantic Pas Shoes-Lance, Character ID:2
+[07-30 16:25:57]5424,Romantic Pas Robe-Carsise, Character ID:1
+[07-30 16:25:57]5425,Romantic Pas Shoes-Carsise, Character ID:1
+[07-30 16:25:57]5426,Mirable Paradise Robe-Phyllis, Character ID:1
+[07-30 16:25:57]5427,Mirable Paradise Shoes-Phyllis, Character ID:1
+[07-30 16:25:57]5428,Pink Angel Hat-Ami, Character ID:1
+[07-30 16:25:57]5429,Pink Angel Robe-Ami, Character ID:1
+[07-30 16:25:57]5430,Pink Angel Gloves-Ami, Character ID:1
+[07-30 16:25:57]5431,Pink Angel Boots-Ami, Character ID:1
+[07-30 16:25:57]5432,Night Deity Robe-Lance, Character ID:2
+[07-30 16:25:57]5433,Night Deity Shoes-Lance, Character ID:2
+[07-30 16:25:57]5434,Night Deity Robe-Carsise, Character ID:1
+[07-30 16:25:57]5435,Night Deity Shoes-Carsise, Character ID:1
+[07-30 16:25:57]5436,Romantic Pas Gloves-Lance (White), Character ID:2
+[07-30 16:25:57]5437,Romantic Pas Gloves-Carsise (White), Character ID:1
+[07-30 16:25:57]5438,Mirable Paradise Gloves-Phyllis (White), Character ID:1
+[07-30 16:25:57]5439,Pink Angel Gloves-Ami (White), Character ID:1
+[07-30 16:25:57]5440,Romantic Pas Gloves-Lance (Blue), Character ID:2
+[07-30 16:25:57]5441,Romantic Pas Gloves-Carsise (Blue), Character ID:1
+[07-30 16:25:57]5442,Mirable Paradise Gloves-Phyllis (Blue), Character ID:1
+[07-30 16:25:57]5443,Pink Angel Gloves-Ami (Blue), Character ID:1
+[07-30 16:25:57]5444,Romantic Pas Gloves-Lance (Black), Character ID:2
+[07-30 16:25:57]5445,Romantic Pas Gloves-Carsise (Black), Character ID:1
+[07-30 16:25:57]5446,Mirable Paradise Gloves-Phyllis (Black), Character ID:1
+[07-30 16:25:57]5447,Pink Angel Gloves-Ami (Black), Character ID:1
+[07-30 16:25:57]5456,Big Crab's Rebellion-Lance, Character ID:2
+[07-30 16:25:57]5457,Big Crab's Loneliness-Lance, Character ID:2
+[07-30 16:25:57]5458,Big Crab's Touch-Lance, Character ID:2
+[07-30 16:25:57]5459,Big Crab's Quicksand-Lance, Character ID:2
+[07-30 16:25:57]5460,Big Crab's Rebellion-Carsise, Character ID:1
+[07-30 16:25:57]5461,Big Crab's Loneliness-Carsise, Character ID:1
+[07-30 16:25:57]5462,Big Crab's Touch-Carsise, Character ID:1
+[07-30 16:25:57]5463,Big Crab's Quicksand-Carsise, Character ID:1
+[07-30 16:25:57]5464,Big Crab's Rebellion-Phyllis, Character ID:1
+[07-30 16:25:57]5465,Big Crab's Loneliness-Phyllis, Character ID:1
+[07-30 16:25:57]5466,Big Crab's Touch-Phyllis, Character ID:1
+[07-30 16:25:57]5467,Big Crab's Quicksand-Phyllis, Character ID:1
+[07-30 16:25:57]5468,Big Crab's Rebellion-Ami, Character ID:1
+[07-30 16:25:57]5469,Big Crab's Loneliness-Ami, Character ID:1
+[07-30 16:25:57]5470,Big Crab's Touch-Ami, Character ID:1
+[07-30 16:25:57]5471,Big Crab's Quicksand-Ami, Character ID:1
+[07-30 16:25:57]5472,Yahoo Duckbilled Hat-Lance, Character ID:2
+[07-30 16:25:57]5473,Yahoo Duckbilled Hat-Carsise, Character ID:1
+[07-30 16:25:57]5474,Yahoo Duckbilled Hat-Phyllis, Character ID:1
+[07-30 16:25:57]5475,Yahoo Duckbilled Hat-Ami, Character ID:1
+[07-30 16:25:57]5476,Cacodaemon Cap-Lance, Character ID:2
+[07-30 16:25:57]5477,Cacodaemon Cap-Carsise, Character ID:1
+[07-30 16:25:57]5478,Cacodaemon Cap-Phyllis, Character ID:1
+[07-30 16:25:57]5479,Cacodaemon Cap-Ami, Character ID:1
+[07-30 16:25:57]5480,Centaur Helmet-Lance, Character ID:2
+[07-30 16:25:57]5481,Centaur Helmet-Carsise, Character ID:1
+[07-30 16:25:57]5482,Centaur Helmet-Phyllis, Character ID:1
+[07-30 16:25:57]5483,Centaur Helmet-Ami, Character ID:1
+[07-30 16:25:57]5484,Ice Dragon Helmet-Lance, Character ID:2
+[07-30 16:25:57]5485,Ice Dragon Helmet-Carsise, Character ID:1
+[07-30 16:25:57]5486,Ice Dragon Helmet-Phyllis, Character ID:1
+[07-30 16:25:57]5487,Ice Dragon Helmet-Ami, Character ID:1
+[07-30 16:25:57]5488,Black Dragonkin Robe-Lance, Character ID:2
+[07-30 16:25:57]5489,Black Dragonkin Gloves-Lance, Character ID:2
+[07-30 16:25:57]5490,Black Dragonkin Shoes-Lance, Character ID:2
+[07-30 16:25:57]5491,Black Dragonkin Robe-Carsise, Character ID:1
+[07-30 16:25:57]5492,Black Dragonkin Gloves-Carsise, Character ID:1
+[07-30 16:25:57]5493,Black Dragonkin Shoes-Carsise, Character ID:1
+[07-30 16:25:57]5494,Black Dragonkin Robe-Phyllis, Character ID:1
+[07-30 16:25:57]5495,Black Dragonkin Gloves-Phyllis, Character ID:1
+[07-30 16:25:57]5496,Black Dragonkin Shoes-Phyllis, Character ID:1
+[07-30 16:25:57]5497,Black Dragonkin Hat-Ami, Character ID:1
+[07-30 16:25:57]5498,Black Dragonkin Robe-Ami, Character ID:1
+[07-30 16:25:57]5499,Black Dragonkin Gloves-Ami, Character ID:1
+[07-30 16:25:57]5500,Black Dragonkin Shoes-Ami, Character ID:1
+[07-30 16:25:57]5501,Kylinkin Robe-Lance, Character ID:2
+[07-30 16:25:57]5502,Kylinkin Gloves-Lance, Character ID:2
+[07-30 16:25:57]5503,Kylinkin Shoes-Lance, Character ID:2
+[07-30 16:25:57]5504,Kylinkin Robe-Carsise, Character ID:1
+[07-30 16:25:57]5505,Kylinkin Gloves-Carsise, Character ID:1
+[07-30 16:25:57]5506,Kylinkin Shoes-Carsise, Character ID:1
+[07-30 16:25:57]5507,Kylinkin Robe-Phyllis, Character ID:1
+[07-30 16:25:57]5508,Kylinkin Gloves-Phyllis, Character ID:1
+[07-30 16:25:57]5509,Kylinkin Shoes-Phyllis, Character ID:1
+[07-30 16:25:57]5510,Kylinkin Hat-Ami, Character ID:1
+[07-30 16:25:57]5511,Kylinkin Robe-Ami, Character ID:1
+[07-30 16:25:57]5512,Kylinkin Gloves-Ami, Character ID:1
+[07-30 16:25:57]5513,Kylinkin Shoes-Ami, Character ID:1
+[07-30 16:25:57]5514,Armor of Dragon-Carsise, Character ID:1
+[07-30 16:25:57]5515,Gauntlets of the Dragon-Carsise, Character ID:1
+[07-30 16:25:57]5516,Greaves of the Dragon-Carsise, Character ID:1
+[07-30 16:25:57]5517,Armor of Dragon-Ami, Character ID:1
+[07-30 16:25:57]5518,Gauntlets of the Dragon-Ami, Character ID:1
+[07-30 16:25:57]5519,Greaves of the Dragon-Ami, Character ID:1
+[07-30 16:25:57]5521,Leech Hat-Lance, Character ID:2
+[07-30 16:25:57]5522,Leech Robe-Lance, Character ID:2
+[07-30 16:25:57]5523,Leech Gloves-Lance, Character ID:2
+[07-30 16:25:57]5524,Leech Boots-Lance, Character ID:2
+[07-30 16:25:57]5525,Leech Hat-Carsise, Character ID:1
+[07-30 16:25:57]5526,Leech Robe-Carsise, Character ID:1
+[07-30 16:25:57]5527,Leech Gloves-Carsise, Character ID:1
+[07-30 16:25:57]5528,Leech Boots-Carsise, Character ID:1
+[07-30 16:25:57]5529,Leech Hat-Phyllis, Character ID:1
+[07-30 16:25:57]5530,Leech Robe-Phyllis, Character ID:1
+[07-30 16:25:57]5531,Leech Gloves-Phyllis, Character ID:1
+[07-30 16:25:57]5532,Leech Boots-Phyllis, Character ID:1
+[07-30 16:25:57]5533,Leech Hat-Ami, Character ID:1
+[07-30 16:25:57]5534,Leech Robe-Ami, Character ID:1
+[07-30 16:25:57]5535,Leech Gloves-Ami, Character ID:1
+[07-30 16:25:57]5536,Leech Boots-Ami, Character ID:1
+[07-30 16:25:57]5537,Hacker Hat-Lance, Character ID:2
+[07-30 16:25:57]5538,Hacker Robe-Lance, Character ID:2
+[07-30 16:25:57]5539,Hacker Gloves-Lance, Character ID:2
+[07-30 16:25:57]5540,Hacker Shoes-Lance, Character ID:2
+[07-30 16:25:57]5541,Hacker Hat-Carsise, Character ID:1
+[07-30 16:25:57]5542,Hacker Robe-Carsise, Character ID:1
+[07-30 16:25:57]5543,Hacker Gloves-Carsise, Character ID:1
+[07-30 16:25:57]5544,Hacker Shoes-Carsise, Character ID:1
+[07-30 16:25:57]5545,Hacker Hat-Phyllis, Character ID:1
+[07-30 16:25:57]5546,Hacker Robe-Phyllis, Character ID:1
+[07-30 16:25:57]5547,Hacker Gloves-Phyllis, Character ID:1
+[07-30 16:25:57]5548,Hacker Shoes-Phyllis, Character ID:1
+[07-30 16:25:57]5549,Hacker Hat-Ami, Character ID:1
+[07-30 16:25:57]5550,Hacker Robe-Ami, Character ID:1
+[07-30 16:25:57]5551,Hacker Gloves-Ami, Character ID:1
+[07-30 16:25:57]5552,Hacker Shoes-Ami, Character ID:1
+[07-30 16:25:57]5553,Azreal Hat-Lance, Character ID:2
+[07-30 16:25:57]5554,Azreal Robe-Lance, Character ID:2
+[07-30 16:25:57]5555,Azreal Gloves-Lance, Character ID:2
+[07-30 16:25:57]5556,Azreal Boots-Lance, Character ID:2
+[07-30 16:25:57]5557,Azreal Hat-Carsise, Character ID:1
+[07-30 16:25:57]5558,Azreal Robe-Carsise, Character ID:1
+[07-30 16:25:57]5559,Azreal Gloves-Carsise, Character ID:1
+[07-30 16:25:57]5560,Azreal Boots-Carsise, Character ID:1
+[07-30 16:25:57]5561,Azreal Hat-Phyllis, Character ID:1
+[07-30 16:25:57]5562,Azreal Robe-Phyllis, Character ID:1
+[07-30 16:25:57]5563,Azreal Gloves-Phyllis, Character ID:1
+[07-30 16:25:57]5564,Azreal Boots-Phyllis, Character ID:1
+[07-30 16:25:57]5565,Azreal Hat-Ami, Character ID:1
+[07-30 16:25:57]5566,Azreal Robe-Ami, Character ID:1
+[07-30 16:25:57]5567,Azreal Gloves-Ami, Character ID:1
+[07-30 16:25:57]5568,Azreal Boots-Ami, Character ID:1
+[07-30 16:25:57]5569,Superman Hat-Lance, Character ID:2
+[07-30 16:25:57]5570,Superman Gloves-Lance, Character ID:2
+[07-30 16:25:57]5571,Superman Gloves-Lance, Character ID:2
+[07-30 16:25:57]5572,Superman Boots-Lance, Character ID:2
+[07-30 16:25:57]5573,Superman Hat-Carsise, Character ID:1
+[07-30 16:25:57]5574,Superman Robe-Carsise, Character ID:1
+[07-30 16:25:57]5575,Superman Gloves-Carsise, Character ID:1
+[07-30 16:25:57]5576,Superman Boots-Carsise, Character ID:1
+[07-30 16:25:57]5577,Fire Shadow Hat-Lance, Character ID:2
+[07-30 16:25:57]5578,Fire Shadow Robe-Lance, Character ID:2
+[07-30 16:25:57]5579,Fire Shadow Gloves-Lance, Character ID:2
+[07-30 16:25:57]5580,Fire Shadow Shoes-Lance, Character ID:2
+[07-30 16:25:57]5581,Fire Shadow Hat-Carsise, Character ID:1
+[07-30 16:25:57]5582,Fire Shadow Robe-Carsise, Character ID:1
+[07-30 16:25:57]5583,Fire Shadow Gloves-Carsise, Character ID:1
+[07-30 16:25:57]5584,Fire Shadow Shoes-Carsise, Character ID:1
+[07-30 16:25:57]5585,Fire Shadow Hat-Phyllis, Character ID:1
+[07-30 16:25:57]5586,Fire Shadow Robe-Phyllis, Character ID:1
+[07-30 16:25:57]5587,Fire Shadow Gloves-Phyllis, Character ID:1
+[07-30 16:25:57]5588,Fire Shadow Shoes-Phyllis, Character ID:1
+[07-30 16:25:57]5589,Fire Shadow Hat-Ami, Character ID:1
+[07-30 16:25:57]5590,Fire Shadow Robe-Ami, Character ID:1
+[07-30 16:25:57]5591,Fire Shadow Gloves-Ami, Character ID:1
+[07-30 16:25:57]5592,Fire Shadow Shoes-Ami, Character ID:1
+[07-30 16:25:57]5593,Caribbean Hat-Lance, Character ID:2
+[07-30 16:25:57]5594,Caribbean Robe-Lance, Character ID:2
+[07-30 16:25:57]5595,Caribbean Gloves-Lance, Character ID:2
+[07-30 16:25:57]5596,Caribbean Shoes-Lance, Character ID:2
+[07-30 16:25:57]5597,Caribbean Robe-Lance, Character ID:1
+[07-30 16:25:57]5598,Caribbean Robe-Carsise, Character ID:1
+[07-30 16:25:57]5599,Caribbean Gloves-Carsise, Character ID:1
+[07-30 16:25:57]5600,Phyllis Pirate Shoes, Character ID:1
+[07-30 16:25:57]5601,Caribbean Hat-Phyllis, Character ID:1
+[07-30 16:25:57]5602,Caribbean Robe-Phyllis, Character ID:1
+[07-30 16:25:57]5603,Caribbean Gloves-Phyllis, Character ID:1
+[07-30 16:25:57]5604,Caribbean Gloves-Phyllis, Character ID:1
+[07-30 16:25:57]5605,Caribbean Hat-Ami, Character ID:1
+[07-30 16:25:57]5606,Caribbean Robe-Ami, Character ID:1
+[07-30 16:25:57]5607,Caribbean Gloves-Ami, Character ID:1
+[07-30 16:25:57]5608,Caribbean Shoes-Ami, Character ID:1
+[07-30 16:25:57]5651,New Year's Hat-Lance, Character ID:2
+[07-30 16:25:57]5652,New Year's Robe-Lance, Character ID:2
+[07-30 16:25:57]5653,New Year's Gloves-Lance, Character ID:2
+[07-30 16:25:57]5654,New Year's Boots-Lance, Character ID:2
+[07-30 16:25:57]5655,New Year's Hat-Carsise, Character ID:1
+[07-30 16:25:57]5656,New Year's Robe-Carsise, Character ID:1
+[07-30 16:25:57]5657,New Year's Gloves-Carsise, Character ID:1
+[07-30 16:25:57]5658,New Year's Boots-Carsise, Character ID:1
+[07-30 16:25:57]5659,New Year's Hat-Phyllis, Character ID:1
+[07-30 16:25:57]5660,New Year's Robe-Phyllis, Character ID:1
+[07-30 16:25:57]5661,Lance Bloodmoon Helmet, Character ID:2
+[07-30 16:25:57]5662,Lance Bloodmoon Armor, Character ID:2
+[07-30 16:25:57]5663,Lance Bloodmoon Gloves, Character ID:2
+[07-30 16:25:57]5664,Lance Bloodmoon Boots, Character ID:2
+[07-30 16:25:57]5665,Carsise Bloodmoon Helmet, Character ID:1
+[07-30 16:25:57]5666,Carsise Bloodmoon Armor, Character ID:1
+[07-30 16:25:57]5667,Carsise Bloodmoon Gloves, Character ID:1
+[07-30 16:25:57]5668,Carsise Bloodmoon Boots, Character ID:1
+[07-30 16:25:57]5669,Phyllis Bloodmoon Helmet, Character ID:1
+[07-30 16:25:57]5670,Phyllis Bloodmoon Armor, Character ID:1
+[07-30 16:25:57]5671,Phyllis Bloodmoon Gloves, Character ID:1
+[07-30 16:25:57]5672,Phyllis Bloodmoon Boots, Character ID:1
+[07-30 16:25:57]5673,Ami Bloodmoon Helmet, Character ID:1
+[07-30 16:25:57]5674,Ami Bloodmoon Armor, Character ID:1
+[07-30 16:25:57]5675,Ami Bloodmoon Gloves, Character ID:1
+[07-30 16:25:57]5676,Ami Bloodmoon Boots, Character ID:1
+[07-30 16:25:57]5677,Lance Wild West Hat, Character ID:2
+[07-30 16:25:57]5678,Lance Wild West Shirt, Character ID:2
+[07-30 16:25:57]5679,Lance Wild West Gloves, Character ID:2
+[07-30 16:25:57]5680,Lance Wild West Boots, Character ID:2
+[07-30 16:25:57]5681,Carsise Wild West Hat, Character ID:1
+[07-30 16:25:57]5682,Carsise Wild West Shirt, Character ID:1
+[07-30 16:25:57]5683,Carsise Wild West Gloves, Character ID:1
+[07-30 16:25:57]5684,Carsise Wild West Boots, Character ID:1
+[07-30 16:25:57]5685,Phyllis Wild West Hat, Character ID:1
+[07-30 16:25:57]5686,Phyllis Wild West Shirt, Character ID:1
+[07-30 16:25:57]5687,Phyllis Wild West Gloves, Character ID:1
+[07-30 16:25:57]5688,Phyllis Wild West Boots, Character ID:1
+[07-30 16:25:57]5689,Ami Wild West Hat, Character ID:1
+[07-30 16:25:57]5690,Ami Wild West Shirt, Character ID:1
+[07-30 16:25:57]5691,Ami Wild West Gloves, Character ID:1
+[07-30 16:25:57]5692,Ami Wild West Boots, Character ID:1
+[07-30 16:25:57]5726,Wanderer's Hat-Lance, Character ID:2
+[07-30 16:25:57]5727,Wanderer's Robe-Lance, Character ID:2
+[07-30 16:25:57]5728,Wanderer's Gloves-Lance, Character ID:2
+[07-30 16:25:57]5729,Wanderer's Boots-Lance, Character ID:2
+[07-30 16:25:57]5730,Wanderer's Hat-Carsise, Character ID:1
+[07-30 16:25:57]5731,Wanderer's Robe-Carsise, Character ID:1
+[07-30 16:25:57]5732,Wanderer's Gloves-Carsise, Character ID:1
+[07-30 16:25:57]5733,Wanderer's Boots-Carsise, Character ID:1
+[07-30 16:25:57]5734,Wanderer's Hat-Phyllis, Character ID:1
+[07-30 16:25:57]5735,Wanderer's Robe-Phyllis, Character ID:1
+[07-30 16:25:57]5736,Wanderer's Gloves-Phyllis, Character ID:1
+[07-30 16:25:57]5737,Wanderer's Boots-Phyllis, Character ID:1
+[07-30 16:25:57]5738,Wanderer's Hat-Ami, Character ID:1
+[07-30 16:25:57]5739,Wanderer's Robe-Ami, Character ID:1
+[07-30 16:25:57]5740,Wanderer's Gloves-Ami, Character ID:1
+[07-30 16:25:57]5741,Wanderer's Boots-Ami, Character ID:1
+[07-30 16:25:57]5742,Battle King's Hat-Lance, Character ID:2
+[07-30 16:25:57]5743,Battle King's Robe-Lance, Character ID:2
+[07-30 16:25:57]5744,Battle King's Gloves-Lance, Character ID:2
+[07-30 16:25:57]5745,Battle King's Boots-Lance, Character ID:2
+[07-30 16:25:57]5746,Battle King's Hat-Carsise, Character ID:1
+[07-30 16:25:57]5747,Battle King's Robe-Carsise, Character ID:1
+[07-30 16:25:57]5748,Battle King's Gloves-Carsise, Character ID:1
+[07-30 16:25:57]5749,Battle King's Boots-Carsise, Character ID:1
+[07-30 16:25:57]5850,Battle King's Hat-Phyllis, Character ID:1
+[07-30 16:25:57]5851,Battle King's Robe-Phyllis, Character ID:1
+[07-30 16:25:57]5852,Battle King's Gloves-Phyllis, Character ID:1
+[07-30 16:25:57]5853,Battle King's Boots-Phyllis, Character ID:1
+[07-30 16:25:57]5854,Battle King's Hat-Ami, Character ID:1
+[07-30 16:25:57]5855,Battle King's Robe-Ami, Character ID:1
+[07-30 16:25:57]5856,Battle King's Gloves-Ami, Character ID:1
+[07-30 16:25:57]5857,Battle King's Boots-Ami, Character ID:1
+[07-30 16:25:57]5945,Lance Enchanted Forest Set  Hat, Character ID:2
+[07-30 16:25:57]5946,Lance Enchanted Forest Set  Suit, Character ID:2
+[07-30 16:25:57]5947,Lance Enchanted Forest Set  Gloves, Character ID:2
+[07-30 16:25:57]5948,Lance Enchanted Forest Set  Shoes, Character ID:2
+[07-30 16:25:57]5949,Carsise Enchanted Forest Set  Hat, Character ID:1
+[07-30 16:25:57]5950,Carsise Enchanted Forest Set  Suit, Character ID:1
+[07-30 16:25:57]5951,Carsise Enchanted Forest Set  Gloves, Character ID:1
+[07-30 16:25:57]5952,Carsise Enchanted Forest Set  Shoes, Character ID:1
+[07-30 16:25:57]5953,Phyllis Enchanted Forest Set  Hat, Character ID:1
+[07-30 16:25:57]5954,Phyllis Enchanted Forest Set  Suit, Character ID:1
+[07-30 16:25:57]5955,Phyllis Enchanted Forest Set  Gloves, Character ID:1
+[07-30 16:25:57]5956,Phyllis Enchanted Forest Set  Shoes, Character ID:1
+[07-30 16:25:57]5957,Ami Enchanted Forest Set  Hat, Character ID:1
+[07-30 16:25:57]5958,Ami Enchanted Forest Set  Suit, Character ID:1
+[07-30 16:25:57]5959,Ami Enchanted Forest Set  Gloves, Character ID:1
+[07-30 16:25:57]5960,Ami Enchanted Forest Set  Shoes, Character ID:1
+[07-30 16:25:57]5970,White Demon's Hat-Lance, Character ID:2
+[07-30 16:25:57]5971,White Demon's Robe-Lance, Character ID:2
+[07-30 16:25:57]5972,White Demon's Gloves-Lance, Character ID:2
+[07-30 16:25:57]5973,White Demon's Boots-Lance, Character ID:2
+[07-30 16:25:57]5974,Black Demon's Hat-Carsise, Character ID:1
+[07-30 16:25:57]5975,Black Demon's Robe-Carsise, Character ID:1
+[07-30 16:25:57]5976,Black Demon's Gloves-Carsise, Character ID:1
+[07-30 16:25:57]5977,Black Demon's Boots-Carsise, Character ID:1
+[07-30 16:25:57]5978,White Demon's Hat-Phyllis, Character ID:1
+[07-30 16:25:57]5979,White Demon's Robe-Phyllis, Character ID:1
+[07-30 16:25:57]5980,White Demon's Gloves-Phyllis, Character ID:1
+[07-30 16:25:57]5981,White Demon's Boots-Phyllis, Character ID:1
+[07-30 16:25:57]5982,Black Demon's Hat-Ami, Character ID:1
+[07-30 16:25:57]5983,Black Demon's Robe-Ami, Character ID:1
+[07-30 16:25:57]5984,Black Demon's Gloves-Ami, Character ID:1
+[07-30 16:25:57]5985,Black Demon's Boots-Ami, Character ID:1
+[07-30 16:25:57]5986,Witch's Hat, Character ID:1
+[07-30 16:25:57]5987,Witch's Robe, Character ID:1
+[07-30 16:25:57]5988,Witch's Gloves, Character ID:1
+[07-30 16:25:57]5989,Witch's Boots, Character ID:1
+[07-30 16:25:57]5992,Templar's Robe-Lance, Character ID:2
+[07-30 16:25:57]5993,Templar's Gloves-Lance, Character ID:2
+[07-30 16:25:57]5994,Templar's Shoes-Lance, Character ID:2
+[07-30 16:25:57]6104,Redemption of Epic Prowess, Character ID:2
+[07-30 16:25:57]6105,Guard of Epic Prowess, Character ID:2
+[07-30 16:25:57]6106,Bless of Epic Prowess, Character ID:2
+[07-30 16:25:57]6107,Favor of Epic Prowess, Character ID:2
+[07-30 16:25:57]6108,Redemption of Honor, Character ID:2
+[07-30 16:25:57]6109,Guard of Honor, Character ID:2
+[07-30 16:25:57]6110,Bless of Honor, Character ID:2
+[07-30 16:25:57]6111,Mercy of Honor, Character ID:2
+[07-30 16:25:57]6112,Redemption of Sacrifice, Character ID:1
+[07-30 16:25:57]6113,Guard of Sacrifice, Character ID:1
+[07-30 16:25:57]6114,Bless of Sacrifice, Character ID:1
+[07-30 16:25:57]6115,Mercy of Sacrifice, Character ID:1
+[07-30 16:25:57]6116,Redemption of Justice, Character ID:2
+[07-30 16:25:57]6117,Guard of Justice, Character ID:2
+[07-30 16:25:57]6118,Bless of Justice, Character ID:2
+[07-30 16:25:57]6119,Mercy of Justice, Character ID:2
+[07-30 16:25:57]6120,Redemption of Empathy, Character ID:1
+[07-30 16:25:57]6121,Guard of Empathy, Character ID:1
+[07-30 16:25:57]6122,Bless of Empathy, Character ID:1
+[07-30 16:25:57]6123,Mercy of Empathy, Character ID:1
+[07-30 16:25:57]6124,Redemption of Inspiration, Character ID:1
+[07-30 16:25:57]6125,Guard of Inspiration, Character ID:1
+[07-30 16:25:57]6126,Bless of Inspiration, Character ID:1
+[07-30 16:25:57]6127,Mercy of Inspiration, Character ID:1
+[07-30 16:25:57]6144,Forest Battle Robe, Character ID:2
+[07-30 16:25:57]6145,Forest Battle Gloves, Character ID:2
+[07-30 16:25:57]6146,Forest Battle Boots, Character ID:2
+[07-30 16:25:57]6147,Holy Armor, Character ID:2
+[07-30 16:25:57]6148,Holy Armor Gloves, Character ID:2
+[07-30 16:25:57]6149,Holy Armor Boots, Character ID:2
+[07-30 16:25:57]6150,Savage Armor, Character ID:1
+[07-30 16:25:57]6151,Savage Armor Gloves, Character ID:1
+[07-30 16:25:57]6152,Savage Armor Boots, Character ID:1
+[07-30 16:25:57]6153,Ice Battle Helmet, Character ID:1
+[07-30 16:25:57]6154,Ice Battle Armor, Character ID:2
+[07-30 16:25:57]6155,Ice Battle Gloves, Character ID:2
+[07-30 16:25:57]6156,Ice Battle Boots, Character ID:2
+[07-30 16:25:57]6157,Ice Holy Bandana, Character ID:1
+[07-30 16:25:57]6158,Ice Holy Robe, Character ID:1
+[07-30 16:25:57]6159,Ice Holy Gloves, Character ID:1
+[07-30 16:25:57]6160,Ice Holy Boots, Character ID:1
+[07-30 16:25:57]6161,Ice Spirit  Bandana, Character ID:1
+[07-30 16:25:57]6162,Ice Magic Robe, Character ID:1
+[07-30 16:25:57]6163,Ice Spirit Gloves, Character ID:1
+[07-30 16:25:57]6164,Ice Spirit Boots, Character ID:1
+[07-30 16:25:57]6173,Sealed Redemption of Epic Prowess, Character ID:2
+[07-30 16:25:57]6174,Sealed Guard of Epic Prowess, Character ID:2
+[07-30 16:25:57]6175,Sealed Bless of Epic Prowess, Character ID:2
+[07-30 16:25:57]6176,Sealed Mercy of Epic Prowess, Character ID:2
+[07-30 16:25:57]6177,Sealed Redemption of Honor, Character ID:2
+[07-30 16:25:57]6178,Sealed Guard of Honor, Character ID:2
+[07-30 16:25:57]6179,Sealed Bless of Honor, Character ID:2
+[07-30 16:25:57]6180,Sealed Mercy of Honor, Character ID:2
+[07-30 16:25:57]6181,Sealed Redemption of Sacrifice, Character ID:1
+[07-30 16:25:57]6182,Sealed Guard of Sacrifice, Character ID:1
+[07-30 16:25:57]6183,Sealed Bless of Sacrifice, Character ID:1
+[07-30 16:25:57]6184,Sealed Mercy of Sacrifice, Character ID:1
+[07-30 16:25:57]6185,Sealed Redemption of Justice, Character ID:2
+[07-30 16:25:57]6186,Sealed Guard of Justice, Character ID:2
+[07-30 16:25:57]6187,Sealed Bless of Justice, Character ID:2
+[07-30 16:25:57]6188,Sealed Mercy of Justice, Character ID:2
+[07-30 16:25:57]6189,Sealed Redemption of Empathy, Character ID:1
+[07-30 16:25:57]6190,Sealed Guard of Empathy, Character ID:1
+[07-30 16:25:57]6191,Sealed Bless of Empathy, Character ID:1
+[07-30 16:25:57]6192,Sealed Mercy of Empathy, Character ID:1
+[07-30 16:25:57]6193,Sealed Redemption of Inspiration, Character ID:1
+[07-30 16:25:57]6194,Sealed Guard of Inspiration, Character ID:1
+[07-30 16:25:57]6195,Sealed Bless of Inspiration, Character ID:1
+[07-30 16:25:57]6196,Sealed Mercy of Inspiration, Character ID:1
