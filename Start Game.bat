@@ -1,1 +1,1 @@
-start system\Game.exe startgame
+system\Game.exe startgame > output.txt

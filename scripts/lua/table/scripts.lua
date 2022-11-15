@@ -460,11 +460,19 @@ function GetElfSkill ( Num )
 	local Part4 = GetNum_Part4 ( Num )
 	local Part5 = GetNum_Part5 ( Num )
 	local Part6 = GetNum_Part6 ( Num )
-	local Part7 = GetNum_Part7 ( Num )
+	local Part7 = GetNum_Fixed ( Num )
 
 	return Part3 , Part2 , Part5 , Part4 , Part7 , Part6 
 
 end
+
+function GetNum_Fixed ( Num )
+    Num = tostring(Num)
+    a = string.sub(Num, -1)
+    a = tonumber(a)
+    return a
+end
+
 function ItemHint_HLS( Lv )	
 	local eff = Lv * 2	
 	local Hint ="Gem Bonus Agility +"..eff	
@@ -578,5 +586,4 @@ function ItemHint_GGW ( Lv )
 	local eff = Lv * 6	
 	local Hint ="Gem Bonus Agility +"..eff	
 	return Hint	
-end 
-
+end
