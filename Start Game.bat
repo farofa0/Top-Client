@@ -1,1 +1,2 @@
-system\Game.exe startgame > output.txt
+start /b system\Game.exe startgame
+exit
