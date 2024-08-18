@@ -576,7 +576,7 @@ UI_ShowForm( frmBooth, FALSE )
 UI_AddFormToTemplete( frmBooth, FORM_MAIN )
 --UI_FormSetHotKey( frmBooth, ALT_KEY, HOTKEY_T )
 UI_SetIsDrag( frmBooth, TRUE )
-UI_FormSetIsEscClose( frmFound, FALSE )
+UI_FormSetIsEscClose( frmBooth, FALSE )
 
 
 -- º”‘ÿÕº∆¨
